@@ -88,7 +88,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-10-01
-    date_end: present
+    date_end: ''
     #summary: |2-
     # Responsibilities include:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -99,7 +99,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-10-01
-    date_end: present
+    date_end: ''
     #summary: |
     #  Responsibilities include:
     #  - Migrated infrastructure to a new data center
