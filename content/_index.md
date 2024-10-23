@@ -32,18 +32,18 @@ sections:
       #    position: center
       #    parallax: false
   - block: markdown
-    id: research
+    id: bio
     content:
-      title: '📚 My Research'
+      title: '📚 Biography'
       subtitle: ''
       text: |-
         Text.
     design:
       columns: '1'
   - block: markdown
-    id: bio
+    id: research
     content:
-      title: '📚 Biography'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
         Text.
