@@ -21,7 +21,8 @@ sections:
     design:
       css_class: dark
       background:
-        color: #449DD1
+        color: '#449DD1'
+        text_color_light: false
       #  image:
       #    # Add your image background to `assets/media/`.
       #    filename: stacked-peaks.svg
@@ -50,6 +51,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 2
       filters:
         folders:
           - publication
