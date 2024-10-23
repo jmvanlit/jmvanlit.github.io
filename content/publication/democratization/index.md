@@ -8,7 +8,7 @@ authors:
   - admin
   - Carolien van Ham, Maurits J. Meijers
 
-date: '2024'
+date: '2024-01-01'
 doi: 'https://doi.org/10.1080/13510347.2023.2279677'
 
 # Schedule page publish date (NOT publication's date).
