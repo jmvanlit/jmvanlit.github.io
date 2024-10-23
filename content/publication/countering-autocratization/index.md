@@ -20,7 +20,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: in *Democratization, 31*(4), 765-787
+publication: '*Democratization, 31*(4), 765-787'
 publication_short: ''
 
 abstract: Many democracies around the world face the challenge of democratic recession and autocratization as democratically elected incumbents increasingly show autocratic tendencies. Existing research has mainly focused on the circumstances under which these autocratizing incumbents erode democracy and on the structural factors explaining the resilience of democratic institutions. Much less is known about the actors within those institutions and when they stand up against the autocratizing incumbent to defend democracy. In this article, we present a novel theoretical framework of democratic defence that focuses on the interaction between the incumbent, institutional elites, and citizens. Developing a two-level model of democratic defence, we show how the democratic defender’s personal interests, repression by the incumbent, the perceived ambiguity of the autocratic action, and the perceived credibility of the democratic defender interact to affect the occurrence of democratic defence. The resulting framework can guide future research on the role of specific actors in defending democracy. We demonstrate the utility of our framework with illustrative case studies of (attempted) democratic defence in Senegal (2011–2012) and Poland (2017–2018). An actor-based approach of democratic defence is crucial to understand what actions domestic and international actors can take to prevent (further) democratic recession.

@@ -1,16 +1,13 @@
 ---
-title: "Populism and Democracy"
+title: "Opvattingen over democratie in Nederland"
 authors:
-- Saskia Ruth-Lovell
-- Rosa Kindt
 - admin
-- Marie-Isabel Theuwis
 
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2024-10-01"
+date: "2023-12-01"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 # https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
-publication_types: ["chapter"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
-publication: in *the Sage Handbook on Populism*, edited by Robert Huber and Michael Jankowski
+publication: '*De verkiezingen van 2023. Van Onderstroom naar Doorbraak: Onvrede en Migratie.*, Dutch Parliamentary Election Study 2023'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -38,7 +35,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.dpes.nl/wp-content/uploads/2024/07/NKO2023-Rapportage-De-verkiezingen-van-2023-1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
