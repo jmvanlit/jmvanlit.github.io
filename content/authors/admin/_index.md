@@ -59,7 +59,7 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: Bachelor of Arts (MA.) in African studies, cum laude
+  - area: Bachelor of Arts (BA.) in African studies, cum laude
     institution: Leiden University
     date_start: 2015-09-01
     date_end: 2018-01-31
