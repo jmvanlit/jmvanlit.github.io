@@ -32,6 +32,7 @@ sections:
       #    position: center
       #    parallax: false
   - block: markdown
+    id: research
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -40,6 +41,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: bio
     content:
       title: '📚 Biography'
       subtitle: ''
@@ -48,6 +50,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: ""
