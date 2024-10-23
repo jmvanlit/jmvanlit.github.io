@@ -50,10 +50,10 @@ interests:
   - Methods
 
 education:
-  - area: Research Master of Science (MSc. res.) in Political science and Public administration, cum laude
+  - area: Research Master of Science (MSc. res.) in Political science and public administration, cum laude
     institution: Leiden University
-    date_start: 2017
-    date_end: 2019
+    date_start: 2017-01-09
+    date_end: 2019-08-31
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -61,8 +61,8 @@ education:
     #  url: 'https://example.com'
   - area: Bachelor of Arts (MA.) in African studies, cum laude
     institution: Leiden University
-    date_start: 2015
-    date_end: 2017
+    date_start: 2015-09-01
+    date_end: 2018-01-31
     #summary: |
     #  GPA: 3.8/4.0
 
@@ -72,8 +72,8 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Science (BSc.) in International relations
     institution: Leiden University
-    date_start: 2012
-    date_end: 2016
+    date_start: 2012-09-01
+    date_end: 2016-01-31
     #summary: |
     #  GPA: 3.4/4.0
       
