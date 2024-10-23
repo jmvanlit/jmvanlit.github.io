@@ -52,8 +52,8 @@ interests:
 education:
   - area: Research Master of Science (MSc. res.) in Political science and Public administration, cum laude
     institution: Leiden University
-    date_start: 2019
-    date_end: 2017
+    date_start: 2017
+    date_end: 2019
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
