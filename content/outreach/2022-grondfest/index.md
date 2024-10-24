@@ -1,10 +1,10 @@
 ---
-title: Roundtable on resilient democracy with parliament
+title: Grondfest - Dutch festival of democracy
 
-event: Rondetafelgesprek over weerbaarheid democratie
+event: Grondfest
 #event_url: https://example.org
 
-location: Tweede Kamer der Staten General
+location: Lux, Nijmegen
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,12 +12,12 @@ location: Tweede Kamer der Staten General
 #  postcode: '94305'
 #  country: United States
 
-summary: Invited to discuss the resilience of Dutch democracy with parliament's Permanent Committee on the Interior
-abstract: 'Invited to discuss the resilience of Dutch democracy with parliament's Permanent Committee on the Interior'  
+summary: Public lecture and Q&A on democratic backsliding
+abstract: 'Grondfest is the Dutch festival for democracy, with lectures, workshops, and debates. I gave a lecture followed by a Q&A on autocratic backsliding and the challenges to democracy.'  
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-28'
+date: '2022-10-01'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -40,7 +40,7 @@ image:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
-  url: https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie
+  url: https://grondfest.com/timetable/event/autocratic-backsliding/
 # url_code: 'https://github.com'
 #url_pdf: ''
 #url_slides: 'https://slideshare.net'
