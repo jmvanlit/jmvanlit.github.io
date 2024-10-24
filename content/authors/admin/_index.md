@@ -47,7 +47,8 @@ profiles:
 interests:
   - Autocratization
   - Democratic defence
-  - Methods
+  - Political behaviour
+  - Public opinion
 
 education:
   - area: Research Master of Science (MSc. res.) in Political science and public administration, cum laude

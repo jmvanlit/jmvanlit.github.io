@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: '#495867'
+  color: 'blue'
 
 # SEO
 marketing:
