@@ -4,7 +4,7 @@ title: Verkenning en verdieping democratische erosie en respons in Nederland
 event: 
 #event_url: https://example.org
 
-location: Lux, Nijmegen
+location: 
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -40,9 +40,9 @@ image:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
-  url: https://www.kennisopenbaarbestuur.nl/documenten/rapporten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland
+#  url: 
 # url_code: 'https://github.com'
-#url_pdf: ''
+url_pdf: 'https://www.kennisopenbaarbestuur.nl/documenten/rapporten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland'
 #url_slides: 'https://slideshare.net'
 #url_video: 'https://youtube.com'
 
