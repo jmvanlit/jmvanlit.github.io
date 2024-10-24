@@ -67,7 +67,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       view: citation
@@ -80,5 +80,5 @@ sections:
           - outreach
     design:
       view: article-grid
-      columns: 1
+      columns: 2
 ---
