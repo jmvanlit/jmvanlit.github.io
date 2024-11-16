@@ -80,6 +80,6 @@ sections:
           - outreach
     design:
       view: article-grid
-      count: 4
+      count: 2
       columns: 2
 ---
