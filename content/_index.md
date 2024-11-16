@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/202410-vanlit-resume.pdf
+        url: uploads/202411-vanlit-resume.pdf
     design:
       css_class: dark
       background:
@@ -39,7 +39,7 @@ sections:
       text: |-
         I am a PhD candidate and lecturer at Radboud University. I am currently finishing my PhD dissertation on the defence of democracy against incumbent-led autocratization, under the supervision of Prof. dr. Carolien van Ham and dr. Maurits Meijers. I have been a Visiting Research at the Varieties of Democracy Institute (V-Dem) at the University of Gothenburg in Sweden, and have previously worked at the Department of Public Administration at Leiden University. In addition to my research, I teach in the bachelor and master programmes Political Science at Radboud University, focussing mainly on methods. 
 
-        Before starting my PhD, I studied International Relations (BSc.), African Studies (BA., *cum laude*), and Political Science and Public Administration (MSc. res., *cum laude*) at Leiden University, with internships at the European Asylum Support Office, the International Institute of Social History, and the Netherlands National Commission for UNESCO.
+        Before starting my PhD, I worked as a Junior lecturer for the bachelor and pre-master PubliC Administration at Leiden University, where I received my University Teaching Qualification. I studied International Relations (BSc.), African Studies (BA., *cum laude*), and Political Science and Public Administration (MSc. res., *cum laude*) at Leiden University, with internships at the European Asylum Support Office, the International Institute of Social History, and the Netherlands National Commission for UNESCO.
 
         Outside of workinghours (and occassionally during) I play cello, enjoy reading novels (with a preference for over-the-top and completely-predictable spy-novels), and running through the woods (training for marathons).
     design:
