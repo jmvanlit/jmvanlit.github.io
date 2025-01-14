@@ -91,7 +91,6 @@ sections:
         folders:
           - outreach
     design:
-      view: showcase
-      count: 4
-      columns: 2
+      view: card
+      count: 3
 ---
