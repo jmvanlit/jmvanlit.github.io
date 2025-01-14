@@ -91,6 +91,6 @@ sections:
         folders:
           - outreach
     design:
-      view: card
+      view: article-grid
       count: 3
 ---
