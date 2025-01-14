@@ -91,7 +91,7 @@ sections:
         folders:
           - outreach
     design:
-      view: article-grid
+      view: showcase
       count: 4
       columns: 2
 ---
