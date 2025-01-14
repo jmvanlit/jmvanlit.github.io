@@ -72,6 +72,18 @@ sections:
     design:
       view: citation
   - block: collection
+    id: workingpapers
+    content:
+      title: Public working papers
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - workingpapers
+        exclude_featured: false
+    design:
+      view: citation    
+  - block: collection
     id: talks
     content:
       title: Outreach and Valorisation
@@ -80,6 +92,6 @@ sections:
           - outreach
     design:
       view: article-grid
-      count: 3
-      columns: 3
+      count: 4
+      columns: 2
 ---
