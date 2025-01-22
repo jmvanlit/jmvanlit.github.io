@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/jmvanlit
   - icon: brands/linkedin
-    url: https://www.linkedin.com/jmvanlit
+    url: https://www.linkedin.com/in/jmvanlit
   - icon: academicons/google-scholar
     url: https://scholar.google.nl/citations?user=Z2KM7rcAAAAJ&hl=nl
   - icon: academicons/orcid
