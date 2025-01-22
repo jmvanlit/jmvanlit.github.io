@@ -37,7 +37,7 @@ summary: ''
 
 # links:
 # - name: ""
-url: 'https://us.sagepub.com/en-us/nam/populism/book286771'
+url: ""
 url_pdf: ''
 url_code: ''
 url_dataset: ''
