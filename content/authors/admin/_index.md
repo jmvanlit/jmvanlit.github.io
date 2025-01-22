@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:joep.vanlit@ru.nl'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/jmvanlit
+  #- icon: brands/x
+  #  url: https://x.com/jmvanlit
   - icon: brands/github
     url: https://github.com/jmvanlit
   - icon: brands/linkedin
@@ -43,6 +43,8 @@ profiles:
     url: https://scholar.google.nl/citations?user=Z2KM7rcAAAAJ&hl=nl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8228-0656
+  - icon: assets/media/icons/ssrn.svg
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7183625
 
 interests:
   - Autocratization
