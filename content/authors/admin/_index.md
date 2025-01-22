@@ -43,7 +43,7 @@ profiles:
     url: https://scholar.google.nl/citations?user=Z2KM7rcAAAAJ&hl=nl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8228-0656
-  - icon: assets/media/icons/ssrn.svg
+  - icon: academicons/ssrn
     url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7183625
 
 interests:
