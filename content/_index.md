@@ -64,7 +64,7 @@ sections:
         With a large and interdisciplinary group of academics, we are working on a joined publication to find an academic answer to the question if Dutch democracy is in decline. The start-meeting is in June 2025, at the Politicologen Etmaal (the Dutch annual political science workshop) in Groningen.
 
         ##### DIY Deepfakes
-        With an NWO SSH-XS Grant we are developing a replicable pipeline for researchers to construct their own deepfake videos as a research tool. As part of the project, we include a lab experiment to establish the effects of such deepfakes and create a framework for ethical and effective debriefing.
+        With an NWO SSH-XS Grant Michal Mochtak and I are developing a replicable pipeline for researchers to construct their own deepfake videos as a research tool. As part of the project, we include a lab experiment to establish the effects of such deepfakes and create a framework for ethical and effective debriefing.
 
     design:
       columns: '1'
