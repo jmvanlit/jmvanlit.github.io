@@ -37,7 +37,7 @@ sections:
       title: '🧐 Biography'
       subtitle: ''
       text: |-
-        I am a PhD candidate and lecturer at Radboud University. My PhD dissertation, *Beautiful Spark of Democracy*, is on the defence of democracy against incumbent-led autocratization, under the supervision of Prof. dr. Carolien van Ham and dr. Maurits Meijers. The dissertation has been approved in May, and my defence is scheduled for October.
+        I am a PhD candidate and lecturer at Radboud University. My PhD dissertation, *Beautiful Spark of Democracy*, is on the defence of democracy against incumbent-led autocratization, under the supervision of [Prof. dr. Carolien van Ham]{https://www.ru.nl/personen/ham-c-van} and [prof. dr. Maurits Meijers]{https://mauritsmeijers.eu/}. The dissertation has been approved in May, and my defence is scheduled for October.
         
         I have been a Visiting Research at the Varieties of Democracy Institute (V-Dem) at the University of Gothenburg in Sweden, and have previously worked at the Department of Public Administration at Leiden University. In addition to my research, I teach in the bachelor and master programmes Political Science at Radboud University, focussing mainly on methods. 
 
@@ -64,7 +64,7 @@ sections:
         With a large and interdisciplinary group of academics, we are working on a joined publication to find an academic answer to the question if Dutch democracy is in decline. The start-meeting is in June 2025, at the Politicologen Etmaal (the Dutch annual political science workshop) in Groningen.
 
         #### DIY Deepfakes
-        With an NWO SSH-XS Grant Michal Mochtak and I are developing a replicable pipeline for researchers to construct their own deepfake videos as a research tool. As part of the project, we include a lab experiment to establish the effects of such deepfakes and create a framework for ethical and effective debriefing.
+        With an NWO SSH-XS Grant [dr. Michal Mochtak]{https://mochtak.com/} and I are developing a replicable pipeline for researchers to construct their own deepfake videos as a research tool. As part of the project, we include a lab experiment to establish the effects of such deepfakes and create a framework for ethical and effective debriefing.
 
     design:
       columns: '1'
