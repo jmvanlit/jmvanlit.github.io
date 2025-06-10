@@ -189,4 +189,4 @@ skills:
 
 ## About Me
 
-Hi! My name is Joep van Lit, and I am PhD candidate and lecturer in political science at Radboud University, Nijmegen. My dissertation focuses on the defense of democracy: who stands up, under what circumstances, and with what tools, to defend against attempts to autocratize by democratically elected leaders?
+Hi! My name is Joep van Lit, and I am PhD candidate and lecturer in political science at Radboud University, Nijmegen. My research focuses on the defense of democracy: who stands up, under what circumstances, and with what tools, to defend against attempts to autocratize by democratically elected leaders?
