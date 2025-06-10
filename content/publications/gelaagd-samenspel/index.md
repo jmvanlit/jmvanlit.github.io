@@ -1,18 +1,19 @@
 ---
-title: 'Defending Democracy: Investigating the Efficacy of Elite Democratic Defence in a Competitive Information Environment'
+title: 'Democratie als ge(s)laagd samenspel?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Marlies Honingh
   - admin
-  - Maurits J. Meijers
+  - Carolien van Ham
 
-date: "2025-06-01"
-doi: ''
+date: "2025-05-01"
+doi: 'https://www.boomportaal.nl/doi/10.5553/BenM/138900692025052002002'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-01-01T00:00:00Z'
+publishDate: '2025-02-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,10 +21,10 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 'accepted in *West European Politics*'
+publication: '*Beleid en Maatschappij, 52*(2), 88-104'
 publication_short: ''
 
-abstract: "When democracies are challenged by democratically elected incumbents, citizens are faced with two competing claims: incumbent justifications for the autocratic proposal versus democratic defenders' claims that they harm democracy. While citizen involvement in the defence of democracy is paramount, up until now it is unclear under which circumstances citizens give more credence to which claim. This paper argues citizens judge the trade-off between incumbent and democratic defender based on the ambiguity surrounding the autocratic action and the credibility of the defenders. A factorial survey experiment in the Netherlands, France, and Germany (n = 9.159) provides strong evidence for this argument. Citizen evaluations of autocratic actions depend largely on the action’s ambiguity and the credibility of democratic defenders. The findings provide avenues for democratic defenders, but also warn of pitfalls and potential backlash against democratic defence."
+abstract: '' 
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -39,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.boomportaal.nl/doi/10.5553/BenM/138900692025052002002'
 url_code: ''
 url_dataset: ''
 url_poster: ''
