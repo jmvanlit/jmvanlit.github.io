@@ -37,7 +37,7 @@ sections:
       title: '🧐 Biography'
       subtitle: ''
       text: |-
-        I am a PhD candidate and lecturer at Radboud University. My PhD dissertation, Beautiful Spark of Democracy, is on the defence of democracy against incumbent-led autocratization, under the supervision of Prof. dr. Carolien van Ham and prof. dr. Maurits Meijers. The dissertation has been approved in May, and my defence is scheduled for October.
+        I am a PhD candidate and lecturer at Radboud University. My PhD dissertation, Beautiful Spark of Democracy, is on the defence of democracy against incumbent-led autocratization, under the supervision of Prof. dr. Carolien van Ham and prof. dr. Maurits Meijers. The dissertation has been approved in May, and my defence is scheduled for 31 October.
         
         I have been a Visiting Researcher at the Varieties of Democracy Institute (V-Dem) at the University of Gothenburg in Sweden, and have previously worked at the Department of Public Administration at Leiden University. In addition to my research, I teach in the bachelor and master programmes Political Science at Radboud University, focusing mainly on methods. 
 
