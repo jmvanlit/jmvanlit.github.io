@@ -43,7 +43,7 @@ sections:
 
         Before starting my PhD, I worked as a Junior lecturer for the bachelor and pre-master Public Administration at Leiden University, where I received my University Teaching Qualification. I studied International Relations (BSc.), African Studies (BA., cum laude), and Political Science and Public Administration (MSc. res., cum laude) at Leiden University, with internships at the European Asylum Support Office, the International Institute of Social History, and the Netherlands National Commission for UNESCO.
 
-        Outside of workinghours (and occasionally during) I play cello, enjoy reading novels (with a preference for over-the-top and completely predictable spy novels), and running through the woods (training for marathons).
+        Outside of working hours (and occasionally during) I play cello, enjoy reading novels (with a preference for over-the-top and completely predictable spy novels), and running through the woods (training for marathons).
     design:
       columns: '1'
   - block: markdown
