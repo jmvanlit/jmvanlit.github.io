@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      #button:
-      #  text: Download CV
-      #  url: uploads/202506-vanlit-resume.pdf
+      button:
+        text: Download CV
+        url: uploads/202506-vanlit-resume.pdf
     design:
       css_class: dark
       background:
@@ -37,13 +37,7 @@ sections:
       title: '🧐 Biography'
       subtitle: ''
       text: |-
-        I am a PhD candidate and lecturer at Radboud University. My PhD dissertation, *Beautiful Spark of Democracy*, is on the defence of democracy against incumbent-led autocratization, under the supervision of Prof. dr. Carolien van Ham and prof. dr. Maurits Meijers. The dissertation has been approved in May, and my defence is scheduled for October.
-        
-        I have been a Visiting Research at the Varieties of Democracy Institute (V-Dem) at the University of Gothenburg in Sweden, and have previously worked at the Department of Public Administration at Leiden University. In addition to my research, I teach in the bachelor and master programmes Political Science at Radboud University, focussing mainly on methods. 
-
-        Before starting my PhD, I worked as a Junior lecturer for the bachelor and pre-master PubliC Administration at Leiden University, where I received my University Teaching Qualification. I studied International Relations (BSc.), African Studies (BA., *cum laude*), and Political Science and Public Administration (MSc. res., *cum laude*) at Leiden University, with internships at the European Asylum Support Office, the International Institute of Social History, and the Netherlands National Commission for UNESCO.
-
-        Outside of workinghours (and occassionally during) I play cello, enjoy reading novels (with a preference for over-the-top and completely-predictable spy-novels), and running through the woods (training for marathons).
+        text
     design:
       columns: '1'
   - block: markdown
