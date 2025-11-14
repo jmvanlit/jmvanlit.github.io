@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral research, focusing on democracy and autocracy
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -53,6 +53,10 @@ interests:
   - Public opinion
 
 education:
+  - area: PhD in Comparative political science, cum laude
+    institution: Radboud University
+    date_start: 2020-10-01
+    date_end: 2025-10-31
   - area: Research Master of Science (MSc. res.) in Political science and public administration, cum laude
     institution: Leiden University
     date_start: 2017-01-09
@@ -189,4 +193,4 @@ skills:
 
 ## About Me
 
-Hi! My name is Joep van Lit, and I am PhD candidate and lecturer in political science at Radboud University, Nijmegen. My research focuses on the defense of democracy: who stands up, under what circumstances, and with what tools, to defend against attempts to autocratize by democratically elected leaders?
+Hi! My name is Joep van Lit, and I am postdoctoral researcher and lecturer in comparative political science at Radboud University, Nijmegen. My research focuses on the defense of democracy: who stands up, under what circumstances, and with what tools, to defend against attempts to autocratize by democratically elected leaders?
