@@ -9,6 +9,24 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: cta-image-paragraph
+    content:
+      items:
+        -
+          name: "First Item"
+          description: "Description for first item"
+        -
+          name: "Second Item"
+          description: "Description for second item"
+    design:
+      background:
+        color: ""
+        # gradient_start: "#4f46e5"
+        # gradient_end: "#7c3aed"
+        # text_color_light: true
+      # spacing:
+      #   padding: ["6", "6", "6", "6"]
+      # columns: "1"
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
