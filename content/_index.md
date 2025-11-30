@@ -79,18 +79,6 @@ sections:
           - publications
         exclude_featured: false
     design:
-      view: citation
-  - block: collection
-    id: workingpapers
-    content:
-      title: Public working papers
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - workingpapers
-        exclude_featured: false
-    design:
       view: citation    
   #- block: collection
   #  id: talks
