@@ -193,4 +193,4 @@ skills:
 
 ## About Me
 
-Hi! My name is Joep van Lit, and I am postdoctoral researcher and lecturer in comparative political science at Radboud University, Nijmegen. My research focuses on the defense of democracy: who stands up, under what circumstances, and with what tools, to defend against attempts to autocratize by democratically elected leaders?
+Hi! My name is Joep van Lit, and I am postdoctoral researcher and lecturer in comparative political science at Radboud University, Nijmegen. I study how democracies can defend themselves against would‑be autocrats, using experiments, surveys, and interviews.

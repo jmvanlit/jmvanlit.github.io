@@ -37,11 +37,9 @@ sections:
       title: '🧐 Biography'
       subtitle: ''
       text: |-
-        I am a postdoctoral researcher and lecturer at Radboud University, focusing on autocratization and the defence of democracy against it. I received my doctorate in comparative political science from Radboud University in October 2025, with the distinction cum laude. My PhD dissertation, Beautiful Spark of Democracy, under the supervision of Prof. dr. Carolien van Ham and prof. dr. Maurits Meijers, is published open access by Radboud University Press. Chapters from my thesis have also been published as stand-alone articles in international peer-reviewed journals, such as West European Politics, Democratization, and the European Political Science Review.
+        I am a postdoctoral researcher and lecturer in Comparative Political Science at Radboud University. My work asks a simple question with big consequences: how can democracies defend themselves when incumbents try to increase their power and weaken checks and balances? I study the roles of democratic elites and citizens using surveys, experiments, and interviews.
         
-        I have been a Visiting Researcher at the Varieties of Democracy Institute (V-Dem) at the University of Gothenburg in Sweden, and have previously worked at the Department of Public Administration at Leiden University. In addition to my research, I teach in the bachelor and master programmes Political Science at Radboud University, focusing mainly on methods. 
-
-        Before starting my PhD, I worked as a Junior lecturer for the bachelor and pre-master Public Administration at Leiden University, where I received my University Teaching Qualification. I studied International Relations (BSc.), African Studies (BA., cum laude), and Political Science and Public Administration (MSc. res., cum laude) at Leiden University, with internships at the European Asylum Support Office, the International Institute of Social History, and the Netherlands National Commission for UNESCO.
+        I earned my PhD cum laude at Radboud University, Nijmegen (October 2025). My dissertation, Beautiful Spark of Democracy ([Open Access](https://doi.org/10.54195/9789465150840), Radboud University Press), feeds into articles in the European Journal of Political Research, West European Politics, European Political Science Review, and Democratization. I have been a Visiting Researcher at the V‑Dem Institute (University of Gothenburg) and I teach research methods in the BSc/MSc Political Science programmes. I regularly engage in the public debate about (Dutch) democracy with contributions to the Dutch Election Studies, public lectures, and advice to politicians and policy-makers.
 
         Outside of working hours (and occasionally during) I play cello, enjoy reading novels (with a preference for over-the-top and completely predictable spy novels), and running through the woods (training for marathons).
     design:
@@ -52,20 +50,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My main research interests are autocratization, democratization, public opinion, and legitimacy. As such, I mainly work on topics within Comparative Politics and Political Behaviour, with a strong emphasis on advanced and rigorous methods. I have presented much of my research at international conferences in Europe and the USA. If you are interested to read some of it (while it is not yet published), feel free to reach out!
+        I study autocratization and democratic defence: when and how democratic elites and citizens resist incumbent-led democratic recession. Substantively, my work sits in Comparative Politics and Political Behaviour; methodologically, I use survey and field experiments, quantitative computational methods, and interviews (with a commitment to open and reproducible science).
 
-        ### PhD Project
-        In my PhD dissertation, Beautiful Spark of Democracy, I ask when democratically elected leaders autocratize, and specifically when and by whom they are opposed. I call these opposition actors "democratic defenders", and research under what circumstances they stand up to defend democracy against these threats from the inside. In the dissertation, I use a multi-method approach to tackle this question from different angles, relying on in-depth casestudies, elite interviews, computational methods, and survey experiments. My dissertation has been approved in May 2025.
+        ### Current projects
+        Currently, I am working on several individual projects, including survey experiments fielded in the Netherlands, the Czech Republic, the United States, United Kingdom, and Spain.
         
-        ### Other projects
-        Next to my PhD dissertation, I am working on several projects related to autocratization and democratization, citizen conceptions of democracy, and the normalization of political violence.
-        
-        #### Is Dutch Democracy in Decline?
-        With a large and interdisciplinary group of academics, we are working on a joined publication to find an academic answer to the question if Dutch democracy is in decline. The start-meeting is in June 2025, at the Politicologen Etmaal (the Dutch annual political science workshop) in Groningen.
-
-        #### DIY Deepfakes
+        ### DIY Deepfakes
         With an NWO SSH-XS Grant dr. Michal Mochtak and I are developing a replicable pipeline for researchers to construct their own deepfake videos as a research tool. As part of the project, we include a lab experiment to establish the effects of such deepfakes and create a framework for ethical and effective debriefing.
 
+        ### PhD Project
+        In my PhD dissertation, Beautiful Spark of Democracy, I ask when democratically elected leaders autocratize, and specifically when and by whom they are opposed. I call these opposition actors "democratic defenders", and research under what circumstances they stand up to defend democracy against these threats from the inside. In the dissertation, I use a multi-method approach to tackle this question from different angles, relying on in-depth casestudies, elite interviews, computational methods, and survey experiments. My dissertation is available Open Access [here](https://doi.org/10.54195/9789465150840).
     design:
       columns: '1'
   - block: collection
