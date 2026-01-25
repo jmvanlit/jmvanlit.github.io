@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Postdoctoral researcher, focusing on democracy and autocracy | Department of Political Science, Radboud University
 
 profile:
   align: right
