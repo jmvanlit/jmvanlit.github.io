@@ -4,9 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-Department of Political Science | Elinor Ostrom Building (EOS) N02.421 | Radboud Universiteit | Postbus 9108, 6500 HK Nijmegen
-
-
 profile:
   align: right
   image: prof_pic.jpg
