@@ -32,7 +32,3 @@ Hi! My name is Joep van Lit, and I am postdoctoral researcher and lecturer in co
 I earned my PhD cum laude at Radboud University, Nijmegen (October 2025). My dissertation, Beautiful Spark of Democracy ([Radboud University Press](https://doi.org/10.54195/9789465150840)), feeds into articles in the European Journal of Political Research, West European Politics, European Political Science Review, and Democratization. I have been a Visiting Researcher at the V‑Dem Institute (University of Gothenburg) and I teach research methods in the BSc/MSc Political Science programmes. I regularly engage in the public debate about (Dutch) democracy with contributions to the Dutch Election Studies, public lectures, and advice to politicians and policy-makers.
 
 Outside of working hours (and occasionally during) I play cello, enjoy reading novels (with a preference for over-the-top and completely predictable spy novels), and running through the woods (training for marathons).
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
