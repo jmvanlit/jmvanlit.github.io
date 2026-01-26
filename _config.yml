@@ -205,6 +205,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news
+  - _projects
+  - _teachings
+  - _repositories
+  - _people
 keep_files:
   - CNAME
   - .nojekyll
