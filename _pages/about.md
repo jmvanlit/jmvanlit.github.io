@@ -29,7 +29,7 @@ latest_posts:
 
 Hi! My name is Joep van Lit, and I am postdoctoral researcher and lecturer in comparative political science at Radboud University, Nijmegen. I study how democracies can defend themselves against would‑be autocrats, using experiments, surveys, and interviews.
 
-I earned my PhD cum laude at Radboud University, Nijmegen (October 2025). My dissertation, Beautiful Spark of Democracy ([Radboud University Press](https://doi.org/10.54195/9789465150840)), feeds into articles in the European Journal of Political Research, West European Politics, European Political Science Review, and Democratization. I have been a Visiting Researcher at the V‑Dem Institute (University of Gothenburg) and I teach research methods in the BSc/MSc Political Science programmes. 
+I earned my PhD cum laude at Radboud University, Nijmegen (October 2025). My dissertation, _Beautiful Spark of Democracy_ ([Radboud University Press](https://doi.org/10.54195/9789465150840)), feeds into articles in the European Journal of Political Research, West European Politics, European Political Science Review, and Democratization. I have been a Visiting Researcher at the V‑Dem Institute (University of Gothenburg) and I teach research methods in the BSc/MSc Political Science programmes. 
 
 I regularly engage in the public debate about (Dutch) democracy with contributions to the Dutch Election Studies, public lectures, and advice to politicians and policy-makers.
 
