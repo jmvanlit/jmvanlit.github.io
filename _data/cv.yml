@@ -10,7 +10,7 @@ cv:
     street: Elinor Ostrom Building (EOS), N02.421, Heyendaalseweg 141
     city: Nijmegen
     region: the Netherlands
-    postalCode: 6525 AJ Nijmegen
+    postalCode: "6525 AJ Nijmegen"
     countryCode: NL
 
   sections:
@@ -53,7 +53,7 @@ cv:
         highlights:
 
     Experience:
-      - company: Radboud  University
+      - company: Radboud University
         position: Postdoctoral Researcher
         location: Nijmegen, NL
         start_date: 2025
@@ -75,7 +75,7 @@ cv:
         summary: ""
         highlights: ""
 
-      - company: V-Dem Institute, Gothenburgh University
+      - company: V-Dem Institute, Gothenburg University
         position: Visiting Researcher
         location: Gothenburg, SE
         start_date: 2023
