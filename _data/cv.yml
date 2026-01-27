@@ -65,7 +65,7 @@ cv:
         position: Lecturer
         location: Nijmegen, the Netherlands
         start_date: 2020
-        end_date: current
+        end_date:
         summary: 
         highlights:
 
