@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Political Science</p>
-    <p>Elinor Ostrom Building, EOS N02.421</p>
+    <p>Radboud University</p>
+    <p>Dept. of Political Science</p>
+    <p>EOS N02.421</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
