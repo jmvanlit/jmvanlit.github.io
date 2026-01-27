@@ -90,7 +90,7 @@ cv:
         end_date:
 
       - name: DIY Deepfakes
-        summary: Text.
+        summary: Together with <a href = "https://mochtak.com/">Michal Mochtak<a/> I am developing a workflow to use deepfakes as research tools. An integral part of the project is to empirically investigate the ethical consequences and limits of this, as well as to develop effective deriefing procedures.
         highlights:
         start_date: 
         end_date:
