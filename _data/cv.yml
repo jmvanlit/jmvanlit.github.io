@@ -14,21 +14,6 @@ cv:
     countryCode: NL
 
   sections:
-    Experience:
-      - company: Radboud  University
-        position: Postdoctoral Researcher
-        location: Nijmegen, NL
-        start_date: 2025
-        end_date: 2026
-        highlights:
-
-      - company: Radboud University
-        position: Lecturer, Political Science
-        location: Nijmegen, NL
-        start_date: 2020
-        end_date: 2026
-        highlights:
-        
     Education:
       - institution: Radboud University
         location: Nijmegen, NL
