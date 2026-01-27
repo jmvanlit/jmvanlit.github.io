@@ -16,17 +16,15 @@ cv:
   sections:
     Education:
       - institution: Radboud University
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        location: Nijmgene, the Netherlands
+        url: 
+        area: Comparative Political Science
+        studyType: PhD, cum laude
+        start_date: 2020
+        end_date: 2025
+        score: 
+        courses: some text here
         highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
