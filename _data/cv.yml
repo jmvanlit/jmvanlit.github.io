@@ -16,10 +16,10 @@ cv:
   sections:
     Education:
       - institution: Radboud University
-        location: the Netherlands
+        location: 
         url: 
         area: Comparative Political Science
-        studyType: PhD, cum laud
+        studyType: PhD, cum laude
         start_date: 2020
         end_date: 2025
         score: ""
@@ -29,7 +29,7 @@ cv:
           - "Supervisors: prof. dr. Carolien van Ham and prof. dr. Maurits J. Meijers."
 
       - institution: Leiden University
-        location: the Netherlands
+        location:
         area: Political Science and Public Administration
         studyType: "MSc (res), cum laude"
         start_date: 2017
@@ -37,7 +37,7 @@ cv:
         highlights:
 
       - institution: Leiden University
-        location: the Netherlands
+        location:
         area: African Studies
         studyType: "BA, cum laude: 
         start_date: 2015
