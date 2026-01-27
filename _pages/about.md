@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Elinor Ostrom Building, EOS N02.421, Department of Political Science</p>
-    <p>Heyendaalseweg 141, 6252 AJ, Nijmegen, the Netherlands</p>
+    <p>Department of Political Science</p>
+    <p>Elinor Ostrom Building, EOS N02.421</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
