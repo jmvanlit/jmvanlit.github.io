@@ -30,33 +30,10 @@ cv:
         location: Leiden, the Netherlands
         url: 
         area: Political Science and Public Administration
-        studyType: MSc. (res.), cum laude
+        studyType: MSc (res), cum laude
         start_date: 2017
         end_date: 2019
         score:
-        courses: 
-        highlights:
-          - Some text
-
-      - institution: Leiden University
-        location: Leiden, the Netherlands
-        url: 
-        area: African Studies
-        studyType: MA, cum laude
-        start_date: 2015
-        end_date: 2018
-        score: 
-        courses: 
-        highlights:
-
-      - institution: Leiden University
-        location: Leiden, the Netherlands
-        url: 
-        area: Political Science and International Relations
-        studyType: BSc.
-        start_date: 2012
-        end_date: 2016
-        score: 
         courses: 
         highlights:
 
