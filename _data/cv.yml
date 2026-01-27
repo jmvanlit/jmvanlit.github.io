@@ -13,6 +13,17 @@ cv:
     postalCode: 6525 AJ Nijmegen
     countryCode: NL
 
+- title: Current Positions
+  type: time_table
+  contents:
+    - title: 1
+      institution: RU
+      year: 2025 - today
+
+    - title: 2
+      institution: RU
+      year: 2020 - today
+
   sections:
     Education:
       - institution: Radboud University
@@ -89,17 +100,6 @@ cv:
         start_date: 2019
         end_date: 2020
         highlights:
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Nobel Prize in Physics
