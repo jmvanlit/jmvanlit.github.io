@@ -72,7 +72,6 @@ cv:
         location: Nijmegen, NL
         start_date: 2020
         end_date: 2025
-        summary: ""
         highlights: ""
 
       - company: V-Dem Institute, Gothenburg University
@@ -80,7 +79,6 @@ cv:
         location: Gothenburg, SE
         start_date: 2023
         end_date: 2023
-        summary: ""
         highlights: ""
 
       - company: Leiden University
@@ -97,7 +95,7 @@ cv:
         date: 1921-11-01
         awarder: Royal Swedish Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to those who, during the preceding year, have conferred the greatest benefit to humankind.
         
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
