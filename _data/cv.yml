@@ -23,15 +23,15 @@ cv:
         start_date: 2020
         end_date: 2025
         score: ""
-        courses: "Thesis: _Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession (published [Open Access by Radboud University Press](https://doi.org/10.54195/9789465150840). Supervisors: prof. dr. Carolien van Ham and prof. dr. Maurits J. Meijers."
+        courses: "Thesis: _Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession_ (published [Open Access by Radboud University Press](https://doi.org/10.54195/9789465150840). Supervisors: prof. dr. Carolien van Ham and prof. dr. Maurits J. Meijers."
         highlights:
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Leiden University
+        location: the Netherlands
+        area: Political Science and Public Administration
+        studyType: "MSc (res), cum laude"
+        start_date: 2017
+        end_date: 2019
         highlights:
           - Description 1.
           - Description 2.
