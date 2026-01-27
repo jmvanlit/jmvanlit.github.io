@@ -14,8 +14,7 @@ cv:
     countryCode: NL
 
   sections:
-
-    Current Positions:
+    Experience:
       - company: Radboud  University
         position: Postdoctoral Researcher
         location: Nijmegen, NL
