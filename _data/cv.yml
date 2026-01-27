@@ -38,9 +38,7 @@ cv:
         highlights:
           - Relativity
           - Description 2.
-
-    Volunteer:
-
+          
     Interests:
       - name: Comparative Politics
         icon: fa-solid fa-landmark
