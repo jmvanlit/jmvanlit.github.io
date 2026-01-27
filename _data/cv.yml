@@ -15,26 +15,24 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Elinor Ostrom Building (EOS), N02.421, Heyendaalseweg 141
+    city: Nijmegen
+    region: the Netherlands
+    postalCode: 6525 AJ Nijmegen
+    countryCode: NL
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Leiden University
+        location: Leiden, the Netherlands
+        url: 
+        area: Political Science and Public Administration
+        studyType: MSc. (res.)
+        start_date: 2017
+        end_date: 2019
+        score: cum laude
+        courses: 
         highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
