@@ -38,6 +38,15 @@ cv:
         highlights:
           - Relativity
           - Description 2.
+
+    Volunteer:
+      - company: V-Dem Institute, Gothenburg University
+        position: Visiting Researcher
+        location: Gothenburg
+        start_date: 2023
+        end_date: 2023
+        summary: 
+        highlights:
           
     Interests:
       - name: Comparative Politics
