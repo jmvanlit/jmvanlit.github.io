@@ -27,67 +27,55 @@ cv:
         highlights:
           - 'Thesis: <em>Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession</em> (published <a href = "https://doi.org/10.54195/9789465150840">Open Access by Radboud University Press</a>).'
           - "Supervisors: prof. dr. Carolien van Ham and prof. dr. Maurits J. Meijers."
-
-      - institution: Leiden University
-        location: "Leiden, NL"
-        area: Political Science and Public Administration
-        studyType: "MSc (res), cum laude"
-        start_date: 2017
-        end_date: 2019
-        highlights:
-
-      - institution: Leiden University
-        location: "Leiden, NL"
-        area: African Studies
-        studyType: "BA, cum laude" 
-        start_date: 2015
-        end_date: 2018
-        highlights:
-        
-      - institution: Leiden University
-        location: "Leiden, NL"
-        area: Political Science and International Relations
-        studyType: "BSc" 
-        start_date: 2012
-        end_date: 2016
-        highlights:
-
+          
     Experience:
-      - company: Radboud University
-        position: Postdoctoral Researcher
-        location: Nijmegen, NL
-        start_date: 2025
-        end_date: 2026
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-
-      - company: Radboud University
-        position: Lecturer, Political Science
-        location: Nijmegen, NL
-        start_date: 2020
-        end_date: 2026
+          - Relativity
+          - Description 2.
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
         highlights:
-        
-      - company: Radboud University
-        position: Doctoral Candidate
-        location: Nijmegen, NL
-        start_date: 2020
-        end_date: 2025
-        highlights: ""
+          - Description 1.
+          - Description 2.
 
-      - company: V-Dem Institute, Gothenburg University
-        position: Visiting Researcher
-        location: Gothenburg, SE
-        start_date: 2023
-        end_date: 2023
-        highlights: ""
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
 
-      - company: Leiden University
-        position: Lecturer, Public Administration
-        location: Leiden, NL
-        start_date: 2019
-        end_date: 2020
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
+
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
+
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-    
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+
     Awards:
       - title: Nobel Prize in Physics
         authors:
@@ -95,8 +83,15 @@ cv:
         date: 1921-11-01
         awarder: Royal Swedish Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to those who, during the preceding year, have conferred the greatest benefit to humankind.
-        
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+      - title: Max Planck Medal
+        authors:
+          - "German Physical Society"
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
+
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
