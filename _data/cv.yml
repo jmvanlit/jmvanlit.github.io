@@ -24,7 +24,7 @@ cv:
         end_date: 2025
         score:
         courses: 
-        highlights: Some text [and a link](#)
+        highlights: 
 
       - institution: Leiden University
         location: Leiden, the Netherlands
@@ -36,6 +36,7 @@ cv:
         score:
         courses: 
         highlights:
+          - Some text
 
       - institution: Leiden University
         location: Leiden, the Netherlands
