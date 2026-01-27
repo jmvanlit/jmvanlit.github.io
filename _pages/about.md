@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ru.nl/en/people/lit-j-van'>Department of Political Science, Radboud University</a>. Postdoctoral researcher, focusing on democracy and autocracy 
+subtitle: Postdoctoral researcher, focusing on democracy and autocracy, <a href='https://www.ru.nl/en/people/lit-j-van'>Department of Political Science, Radboud University</a>
 
 profile:
   align: right
@@ -29,6 +29,8 @@ latest_posts:
 
 Hi! My name is Joep van Lit, and I am postdoctoral researcher and lecturer in comparative political science at Radboud University, Nijmegen. I study how democracies can defend themselves against would‑be autocrats, using experiments, surveys, and interviews.
 
-I earned my PhD cum laude at Radboud University, Nijmegen (October 2025). My dissertation, Beautiful Spark of Democracy ([Radboud University Press](https://doi.org/10.54195/9789465150840)), feeds into articles in the European Journal of Political Research, West European Politics, European Political Science Review, and Democratization. I have been a Visiting Researcher at the V‑Dem Institute (University of Gothenburg) and I teach research methods in the BSc/MSc Political Science programmes. I regularly engage in the public debate about (Dutch) democracy with contributions to the Dutch Election Studies, public lectures, and advice to politicians and policy-makers.
+I earned my PhD cum laude at Radboud University, Nijmegen (October 2025). My dissertation, Beautiful Spark of Democracy ([Radboud University Press](https://doi.org/10.54195/9789465150840)), feeds into articles in the European Journal of Political Research, West European Politics, European Political Science Review, and Democratization. I have been a Visiting Researcher at the V‑Dem Institute (University of Gothenburg) and I teach research methods in the BSc/MSc Political Science programmes. 
+
+I regularly engage in the public debate about (Dutch) democracy with contributions to the Dutch Election Studies, public lectures, and advice to politicians and policy-makers.
 
 Outside of working hours (and occasionally during) I play cello, enjoy reading novels (with a preference for over-the-top and completely predictable spy novels), and running through the woods (training for marathons).
