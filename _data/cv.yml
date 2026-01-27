@@ -16,7 +16,7 @@ cv:
   sections:
     Education:
       - institution: Radboud University
-        location: 
+        location: Nijmegen, NL
         url: 
         area: Comparative Political Science
         studyType: PhD, cum laude
@@ -25,11 +25,11 @@ cv:
         score: ""
         courses:  
         highlights:
-          - "Thesis: <em>Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession</em> (published Open Access by Radboud University Press, https://doi.org/10.54195/9789465150840)."
+          - "Thesis: <em>Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession</em> (published <a href = "https://doi.org/10.54195/9789465150840">Open Access by Radboud University Press</a>)."
           - "Supervisors: prof. dr. Carolien van Ham and prof. dr. Maurits J. Meijers."
 
       - institution: Leiden University
-        location:
+        location: "Leiden, NL"
         area: Political Science and Public Administration
         studyType: "MSc (res), cum laude"
         start_date: 2017
@@ -37,23 +37,29 @@ cv:
         highlights:
 
       - institution: Leiden University
-        location:
+        location: "Leiden, NL"
         area: African Studies
         studyType: "BA, cum laude" 
         start_date: 2015
         end_date: 2018
         highlights:
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+     - institution: Leiden University
+        location: "Leiden, NL"
+        area: Political Science and International Relations
+        studyType: "BSc" 
+        start_date: 2012
+        end_date: 2016
         highlights:
-          - Relativity
-          - Description 2.
+
+    Experience:
+      - company: Radboud University
+        position: Doctoral Candidate
+        location: Nijmegen, NL
+        start_date: 2020
+        end_date: 2025
+        summary: ""
+        highlights: ""
 
       - company: California Institute of Technology
         position: Visiting Professor
