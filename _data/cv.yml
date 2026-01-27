@@ -15,18 +15,16 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Radboud University
+        location: the Netherlands
+        url: 
+        area: Comparative Political Science
+        studyType: PhD, cum laude
+        start_date: 2020
+        end_date: 2025
         score: ""
-        courses: "Theory of Relativity"
+        courses: Thesis: _Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession (published [Open Access by Radboud University Press](https://doi.org/10.54195/9789465150840). Supervisors: prof. dr. Carolien van Ham and prof. dr. Maurits J. Meijers.
         highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
