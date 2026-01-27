@@ -77,16 +77,18 @@ cv:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Research Areas:
+      - name: Comparative Politics
+        icon: fa-solid fa-landmark
+        keywords: "Autocratization, democratization, democratic defence, autocratic actions, commitment to democracy, conceptions of democracy"
+
+      - name: Methods
+        icon: fa-solid fa-landmark
+        keywords: "Survey experiments, ethics, interviews, computational social science"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Countering Autocratization
+        summary: During my PhD project, I started working on several papers that investigate different <em>actors</em> and different <em>actions</em> of democratic defence. I seek to understand who is an effective defender of democracy, under what circumstances, and using what resistance strategies.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
         start_date: 2018-01-01
         end_date: 2018-01-01
