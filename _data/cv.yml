@@ -1,16 +1,16 @@
 cv:
   name: Joep van Lit
   label: Postdoctoral Researcher
-  email: joep.vanlit@ru.nl
+  email: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>
   location: Radboud University, Nijmegen, the Netherlands
   image: ""
   summary: I am a postdoctoral researcher and lecturer in comparative political science at Radboud University. My research focuses on democratic recession and democratic defence, examining how political elites, institutions, and citizens respond when democracy comes under pressure.
 
   address:
-    street: Elinor Ostrom Building (EOS), N02.421, Heyendaalseweg 141
-    city: Nijmegen
-    region: the Netherlands
-    postalCode: "6525 AJ Nijmegen"
+    street: Elinor Ostrom Building (EOS), room N02.421 
+    city: Radboud University
+    region: 
+    postalCode: 
     countryCode: NL
 
   sections:
@@ -41,7 +41,7 @@ cv:
     
     Experience:
       - company: Radboud University
-        position: Postdoctoral researcher in Comparative Political Science
+        position: Postdoctoral Researcher in Comparative Political Science
         location: Nijmegen
         start_date: 2025
         end_date: today
