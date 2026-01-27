@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-research",
+          title: "research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "This website is still in progress, so the details below are not yet correct. You can find the highlights of my resume below, or download my full resume here.",
           section: "Navigation",
