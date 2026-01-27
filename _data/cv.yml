@@ -83,12 +83,18 @@ cv:
         keywords: "Autocratization, democratization, democratic defence, autocratic actions, commitment to democracy, conceptions of democracy"
 
       - name: Methods
-        icon: fa-solid fa-landmark
+        icon: fa-solid fa-flask
         keywords: "Survey experiments, ethics, interviews, computational social science"
 
     Projects:
       - name: Countering Autocratization
         summary: During my PhD project, I started working on several papers that investigate different <em>actors</em> and different <em>actions</em> of democratic defence. I seek to understand who is an effective defender of democracy, under what circumstances, and using what resistance strategies.
         highlights:
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+        start_date: 
+        end_date:
+
+      - name: DIY Deepfakes
+        summary: Text.
+        highlights:
+        start_date: 
+        end_date:
