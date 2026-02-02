@@ -82,6 +82,8 @@ cv:
       - name: Countering Autocratization
         summary: During my PhD project, I started working on several papers that investigate different <em>actors</em> and different <em>actions</em> of democratic defence. I seek to understand who is an effective defender of democracy, under what circumstances, and using what resistance strategies.
         highlights:
+          - paper 1
+          - paper 2
         start_date: 
         end_date:
 
