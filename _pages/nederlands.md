@@ -22,7 +22,7 @@ In zijn onderzoek kijkt hij naar de weerbaarheid en verdediging van democratie t
 
 Dat doet hij aan de hand van landen-vergelijkend onderzoek, interviews met verdedigers van de democratie, en opinieonderzoek met experimenten en vragenlijsten. Zijn onderzoek is in verschillende internationale wetenschappelijke tijdschriften gepubliceerd en hij draagt regelmatig bij aan het publieke debat over de Nederlandse democratie door publiekslezingen of advies aan politici en ambtenaren. 
 
-Hoewel Joep in Nederland en Zwitserland werkt, woont hij in Nederland.
+Joep woont in Nederland.
 
 ### Promotie onderzoek: De verdediging van de democratie
 
@@ -53,4 +53,31 @@ Het boek combineert een analyse van wereldwijde gevallen van democratische erosi
 </div>
 
 ## Bijdragen aan het publieke debat
+Joep draagt graag bij aan het publieke debat en de kennis over democratie en autocratie.
+
+<div class="row mt-3">
+  <div class="col-sm-4">
+    <h4>Publiekslezingen</h4>
+    <p>
+      tekst
+    </p>
+  </div>
+  
+  <div class="col-sm-4">
+    <h4>Beleidsadvies</h4>
+    <p>
+      Joep heeft regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo is hij in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019>rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef hij mee aan >a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</p>a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf hij een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
+    </p>
+  </div>
+  
+  <div class="col-sm-4">
+    <h4>Kiezersonderzoeken</h4>
+    <p>
+      tekst
+    </p>
+  </div>
+</div>
+
+Ik kom 
+
 ## Huidige onderzoeksprojecten
