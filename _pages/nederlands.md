@@ -15,7 +15,7 @@ nav_order: 4
   }
 </style>
 
-## Over Joep
+# Over Joep
 Dr. Joep van Lit is politicoloog en democratie onderzoeker aan de Raboud Universiteit in Nijmegen en de Universiteit van Fribourg in Zwitserland. 
 
 In zijn onderzoek kijkt hij naar de weerbaarheid en verdediging van democratie tegen autocratisering door democratisch gekozen leiders: wie zijn de verdedigers van de democratie, wat doen zij om de democratie te verdedigen, en wanneer zijn zij succesvol? En: wat is de rol van burgers in die verdediging? 
@@ -52,7 +52,7 @@ Het boek combineert een analyse van wereldwijde gevallen van democratische erosi
   </div>
 </div>
 
-## Bijdragen aan het publieke debat
+# Bijdragen aan het publieke debat
 Joep draagt graag bij aan het publieke debat en de kennis over democratie en autocratie.
 
 <div class="row mt-3">
@@ -80,4 +80,4 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
 
 Ik kom 
 
-## Huidige onderzoeksprojecten
+# Huidige onderzoeksprojecten
