@@ -32,7 +32,7 @@ Joep woont in Nederland, leest in zijn vrije tijd graag slechte spionage romans,
 Joep is in 2025 cum laude gepromoveerd aan de Radboud Universiteit. Zijn proefschrift is getiteld <a href = "https://doi.org/10.54195/9789465150840">Beautiful Spark of Democracy</a>.
     </p>
     <p>
-      Het boek <a href = "https://doi.org/10.54195/9789465150840">Beautiful Spark of Democracy</a> onderzoekt hoe democratieën zich kunnen verdedigen tegen democratisch gekozen leiders met autocratische neigingen. Deze zogeheten democratische erosie is wereldwijd de meest voorkomende vorm van autocratisering sinds 1990. Waar veel onderzoek zich richt op hoe democratieën afglijden, kijk ik juist naar de vraag <strong>hoe we op die erosie kunnen reageren. Dat noem ik de verdediging van de democratie.</strong>
+      Het boek <a href = "https://doi.org/10.54195/9789465150840">Beautiful Spark of Democracy</a> onderzoekt hoe democratieën zich kunnen verdedigen tegen democratisch gekozen leiders met autocratische neigingen. Deze zogeheten democratische erosie is wereldwijd de meest voorkomende vorm van autocratisering sinds 1990. Waar veel onderzoek zich richt op hoe democratieën afglijden, <strong>kijk ik juist naar de vraag hoe we op die erosie kunnen reageren. Dat noem ik de verdediging van de democratie.</strong>
 </p>
     <p>
 Centraal staat het idee dat instituties alleen niet voldoende zijn. Het zijn mensen – democratische professionals zoals politici, rechters en ambtenaren, én burgers – die de democratie weerbaar maken. Zij moeten democratische erosie eerst herkennen, ondanks de ambiguïteit ervan, en vervolgens bereid zijn in verzet te komen, ook wanneer aspirant-autocraten democratisch gelegitimeerd zijn.
