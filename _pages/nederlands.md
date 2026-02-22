@@ -9,8 +9,14 @@ cv_pdf:
 nav_order: 4
 ---
 
+<style>
+  .post-title {
+    display: none;
+  }
+</style>
+
 ## Over Joep
-Joep van Lit is democratie onderzoeker aan de Raboud Universiteit in Nijmegen en de Universiteit van Fribourg in Zwitserland. 
+Joep van Lit is politicoloog en democratie onderzoeker aan de Raboud Universiteit in Nijmegen en de Universiteit van Fribourg in Zwitserland. 
 
 In zijn onderzoek kijkt hij naar de weerbaarheid en verdediging van democratie tegen autocratisering door democratisch gekozen leiders: wie zijn de verdedigers van de democratie, wat doen zij om de democratie te verdedigen, en wanneer zijn zij succesvol? En: wat is de rol van burgers in die verdediging? 
 
