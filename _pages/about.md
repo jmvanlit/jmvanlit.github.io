@@ -6,7 +6,7 @@ subtitle: Postdoctoral researcher, focusing on democracy and autocracy, at the <
 
 profile:
   align: right
-  image: pic.jpg
+  image: prof-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Fribourg</p>
