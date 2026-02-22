@@ -41,12 +41,12 @@ Centraal staat het idee dat instituties alleen niet voldoende zijn. Het zijn men
 Het boek combineert een analyse van wereldwijde gevallen van democratische erosie met een nieuwe theorie over democratische verdediging. Empirisch onderzoek onder Nederlandse rijksambtenaren en experimenten in Nederland, Duitsland en Frankrijk tonen aan dat verdediging door elites afhangt van hun belangen en angst voor repressie, terwijl de verdediging van de democratie door burgers afhankelijk is van de geloofwaardigheid van elites en de mate van ambiguïteit van autocratische acties.
 </p>
     <p>
-<a href = "[https://doi.org/10.54195/9789465150840](https://books.radbouduniversitypress.nl/index.php/rup/catalog/view/Beautiful-Spark-of-Democracy/543/335)"><strong>Het hele boek is hier gratis te downloaden.</strong></a>
+<a href = "https://books.radbouduniversitypress.nl/index.php/rup/catalog/view/Beautiful-Spark-of-Democracy/543/335"><strong>Het hele boek is hier gratis te downloaden.</strong></a>
     </p>
   </div>
   
   <div class="col-sm-4">
-<a href = "[https://doi.org/10.54195/9789465150840](https://books.radbouduniversitypress.nl/index.php/rup/catalog/view/Beautiful-Spark-of-Democracy/543/335)">
+<a href = "https://books.radbouduniversitypress.nl/index.php/rup/catalog/view/Beautiful-Spark-of-Democracy/543/335">
     <img src="/assets/img/bsod.jpg" alt="Beautiful Spark of Democracy" class="img-fluid rounded">
 </a>
   </div>
@@ -66,14 +66,14 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
   <div class="col-sm-4">
     <h4>Beleidsadvies</h4>
     <p>
-      Joep heeft regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo is hij in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019>rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef hij mee aan >a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</p>a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf hij een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
+      Joep heeft regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo is hij in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019>rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef hij mee aan <a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</p>a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf hij een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
     </p>
   </div>
   
   <div class="col-sm-4">
     <h4>Kiezersonderzoeken</h4>
     <p>
-      tekst
+      Voor het <a href = "https://www.dpes.nl/">Nationaal Kiezersonderzoek</a> keek Joep rondom de Tweede Kamerverkiezingen van 2024 naar de verschillende opvattingen over democratie die Nederlandse kiezers hebben. Voor het Nationaal Kiezersonderzoek rondom de Tweede Kamerverkiezingen van 2025 onderzoekt Joep samen met <a href = "https://carmenvanalebeek.nl/">Carmen van Alebeek</a> de steun voor de democratie onder Nederlandse kiezers. En voor het Lokaal Kiezersonderzoek rondom de gemeenteraadsverkiezingen van 2026 brengt Joep samen met <a href = "https://www.uu.nl/medewerkers/EABlok">Lisanne de Blok</a> in kaart hoe weerbaar de lokale democratie is.
     </p>
   </div>
 </div>
