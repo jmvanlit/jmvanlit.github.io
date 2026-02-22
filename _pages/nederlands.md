@@ -59,14 +59,14 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
   <div class="col-sm-4">
     <h4>Publiekslezingen</h4>
     <p>
-      tekst
+      Naast media optredens, bijvoorbeeld bij <a href = "https://www.nporadio1.nl/fragmenten/de-nieuws-bv/019a3054-7159-70f9-8ff2-a579c63c743c/2025-10-29-steeds-meer-autocratieen-hoe-staat-nederland-ervoor">BNNVARA / Radio 1</a> en <a href = "https://eenvandaag.avrotros.nl/doe-mee/brokkelt-de-democratie-in-nederland-langzaam-af-jullie-vragen-over-autocratie-beantwoord-161405">EenVandaag</a>, geeft en begeleid Joep ook graag publiekslezingen. Zo heeft hij eerder bijgedragen aan discussies van kleinere en grotere organisaties in bijvoorbeeld Nijmegen, Den Bosch, Utrecht, en Rheden.
     </p>
   </div>
   
   <div class="col-sm-4">
     <h4>Beleidsadvies</h4>
     <p>
-      Joep heeft regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo is hij in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019>rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef hij mee aan <a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</p>a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf hij een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
+      Joep heeft regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo is hij in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019">rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef hij mee aan <a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</p>a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf hij een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
     </p>
   </div>
   
