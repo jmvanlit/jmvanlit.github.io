@@ -59,7 +59,7 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
   <div class="col-sm-4">
     <h4>Publiekslezingen</h4>
     <p>
-      Naast media optredens, bijvoorbeeld bij <a href = "https://www.nporadio1.nl/fragmenten/de-nieuws-bv/019a3054-7159-70f9-8ff2-a579c63c743c/2025-10-29-steeds-meer-autocratieen-hoe-staat-nederland-ervoor">BNNVARA / Radio 1</a> en <a href = "https://eenvandaag.avrotros.nl/doe-mee/brokkelt-de-democratie-in-nederland-langzaam-af-jullie-vragen-over-autocratie-beantwoord-161405">EenVandaag</a>, geeft en begeleid Joep ook graag publiekslezingen. Zo heeft hij eerder bijgedragen aan discussies van kleinere en grotere organisaties in bijvoorbeeld Nijmegen, Rotterdam, Den Bosch, en Utrecht.
+      Naast media optredens, bijvoorbeeld bij <a href = "https://www.nporadio1.nl/fragmenten/de-nieuws-bv/019a3054-7159-70f9-8ff2-a579c63c743c/2025-10-29-steeds-meer-autocratieen-hoe-staat-nederland-ervoor">BNNVARA / Radio 1</a> en <a href = "https://eenvandaag.avrotros.nl/doe-mee/brokkelt-de-democratie-in-nederland-langzaam-af-jullie-vragen-over-autocratie-beantwoord-161405">EenVandaag</a>, geeft Joep ook graag publiekslezingen. Zo heeft hij eerder bijgedragen aan discussies van kleinere en grotere organisaties in bijvoorbeeld Nijmegen, Rotterdam, Den Bosch, en Utrecht.
     </p>
   </div>
   
