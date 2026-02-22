@@ -9,10 +9,6 @@ cv_pdf:
 nav_order: 3
 ---
 
-## Bio
-
-## Research Overview
-
-### Projects
+Content to follow.
 
 
