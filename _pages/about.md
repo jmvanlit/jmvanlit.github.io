@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher, focusing on democracy and autocracy, <a href='https://www.ru.nl/en/people/lit-j-van'>Department of Political Science, Radboud University</a>
+subtitle: Postdoctoral researcher, focusing on democracy and autocracy, <a href = "https://www.unifr.ch/directory/en/people/449834/d51a8">Department of European Studies, University of Fribourg</a>, <a href='https://www.ru.nl/en/people/lit-j-van'>Department of Political Science, Radboud University</a>
 
 profile:
   align: right
