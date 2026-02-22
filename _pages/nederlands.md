@@ -53,7 +53,7 @@ Het boek combineert een analyse van wereldwijde gevallen van democratische erosi
 </div>
 
 # Bijdragen aan het publieke debat
-Joep draagt graag bij aan het publieke debat en de kennis over democratie en autocratie.
+Joep draagt graag bij aan het publieke debat en de kennis over democratie en autocratie. <strong>De beste manier om met hem in contact te komen is via zijn e-mail: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>.</strong>
 
 <div class="row mt-3">
   <div class="col-sm-4">
@@ -66,7 +66,7 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
   <div class="col-sm-4">
     <h4>Beleidsadvies</h4>
     <p>
-      Joep heeft regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo is hij in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019">rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef hij mee aan <a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</p>a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf hij een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
+      Joep heeft regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo is hij in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019">rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef hij mee aan <a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf hij een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
     </p>
   </div>
   
@@ -77,7 +77,5 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
     </p>
   </div>
 </div>
-
-<strong>De beste manier om met Joep in contact te komen is via zijn e-mail: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>.</strong>
 
 # Huidige onderzoeksprojecten
