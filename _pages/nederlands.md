@@ -22,7 +22,7 @@ In zijn onderzoek kijkt hij naar de weerbaarheid en verdediging van democratie t
 
 Dat doet hij aan de hand van landen-vergelijkend onderzoek, interviews met verdedigers van de democratie, en opinieonderzoek met experimenten en vragenlijsten. Zijn onderzoek is in verschillende internationale wetenschappelijke tijdschriften gepubliceerd en hij draagt regelmatig bij aan het publieke debat over de Nederlandse democratie door publiekslezingen of advies aan politici en ambtenaren. 
 
-Joep woont in Nederland.
+Joep woont in Nederland, leest in zijn vrije tijd graag slechte spionage romans, speelt cello, en is altijd aan het trainen voor zijn volgende (ultra)marathon.
 
 ### Promotie onderzoek: De verdediging van de democratie
 
