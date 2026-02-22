@@ -78,6 +78,6 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
   </div>
 </div>
 
-Ik kom 
+<strong>De beste manier om met Joep in contact te komen is via zijn e-mail: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>.</strong>
 
 # Huidige onderzoeksprojecten
