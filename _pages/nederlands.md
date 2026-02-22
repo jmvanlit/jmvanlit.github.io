@@ -79,3 +79,11 @@ Joep draagt graag bij aan het publieke debat en de kennis over democratie en aut
 </div>
 
 # Huidige onderzoeksprojecten
+Op het moment werkt Joep aan drie grote onderzoeksprojecten.
+
+Aan de Universiteit van Fribourg onderzoekt Joep onder welke voorwaarden burgers de liberale democratie steunen. Hij kijkt hierbij vooral hoe de ideeën over 'wat democratie is' verschillen tussen verschillende landen, en op welke manier die verschillende ideeën bijdragen aan het politieke gedrag van burgers - zoals stemgedrag of het besluit om wel of niet te gaan demonstreren.
+
+Joep werkt verder aan een project om onderzoeksmethoden ethischer te maken. In sommig politicologisch onderzoek maken we gebruik van experimenten, waarbij we deelnemers misleiden. Dit wordt vaak goedgekeurd door ethische commissies en is een standaard onderdeel van de gereedschapskist van politicologen. Joep onderzoekt hoe dit eerlijker en ethischer kan.
+
+Daarnaast onderzoekt Joep, als vervolg op zijn promotieonderzoek, welke acties om de democratie te verdedigen legitiem gevonden worden (mag iedereen zomaar alles doen om de democratie te beschermen?) en welke acties effectief zijn (is elke verdediging even succesvol?). 
+
