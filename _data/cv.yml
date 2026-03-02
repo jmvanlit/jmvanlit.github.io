@@ -4,7 +4,7 @@ cv:
   email: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>
   location: Radboud University, Nijmegen, the Netherlands
   image: ""
-  summary: I am a postdoctoral researcher and lecturer in comparative political science at Radboud University. My research focuses on democratic recession and democratic defence, examining how political elites, institutions, and citizens respond when democracy comes under pressure.
+  summary: I am a postdoctoral researcher and lecturer in comparative political science at the University of Fribourg, Switzerland, and at Radboud University, Nijmegen, the Netherlands. My research focuses on democratic recession and democratic defence, examining how political elites, institutions, and citizens respond when democracy comes under pressure.
 
   address:
     street: Elinor Ostrom Building (EOS), room N02.421 
@@ -40,6 +40,14 @@ cv:
         highlights:
     
     Experience:
+      - company: University of Fribourg
+        position: Postdoctoral Researcher in Comparative Political Science
+        location: Fribourg
+        start_date: 2026
+        end_date: today
+        summary:
+        highlights:
+
       - company: Radboud University
         position: Postdoctoral Researcher in Comparative Political Science
         location: Nijmegen
@@ -52,7 +60,7 @@ cv:
         position: Lecturer in Political Science
         location: Nijmegen
         start_date: 2020
-        end_date: today
+        end_date: 2025
         summary:
         highlights:
 
