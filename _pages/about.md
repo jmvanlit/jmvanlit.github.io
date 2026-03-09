@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Citizen commitment to democracy,</p>
-    <p>democracatic resilience, autocratization</p>
+    <p>Joep van Lit, PhD</p>
+    <p><a href = "mailto:joep.vanlit@unifr.ch">joep.vanlit@unifr.ch</a></p>
     <p><a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
