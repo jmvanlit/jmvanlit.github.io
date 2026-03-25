@@ -59,7 +59,7 @@ Ik draag graag bij aan het publieke debat en de kennis over democratie en autocr
   <div class="col-sm-4">
     <h4>Publiekslezingen</h4>
     <p>
-      Naast media optredens, bijvoorbeeld bij <a href = "https://www.nporadio1.nl/fragmenten/de-nieuws-bv/019a3054-7159-70f9-8ff2-a579c63c743c/2025-10-29-steeds-meer-autocratieen-hoe-staat-nederland-ervoor">BNNVARA / Radio 1</a> en <a href = "https://eenvandaag.avrotros.nl/doe-mee/brokkelt-de-democratie-in-nederland-langzaam-af-jullie-vragen-over-autocratie-beantwoord-161405">EenVandaag</a>, geef ik ook graag publiekslezingen. Zo heb ik eerder bijgedragen aan discussies van kleinere en grotere organisaties in bijvoorbeeld Nijmegen, Rotterdam, Den Bosch, en Utrecht.
+      Naast media optredens, bijvoorbeeld bij <a href = "https://www.nporadio1.nl/fragmenten/de-nieuws-bv/019a3054-7159-70f9-8ff2-a579c63c743c/2025-10-29-steeds-meer-autocratieen-hoe-staat-nederland-ervoor">BNNVARA / Radio 1</a> en <a href = "https://eenvandaag.avrotros.nl/doe-mee/brokkelt-de-democratie-in-nederland-langzaam-af-jullie-vragen-over-autocratie-beantwoord-161405">EenVandaag</a>, en interviews met bijvoorbeeld <a href= "https://www.groene.nl/artikel/hoe-nederland-trump-proof-kan-worden">De Groene Amsterdammer</a> of <a href = "https://www.vn.nl/hoe-rechts-de-eu-ondermijnt/">Vrij Nederland</a>, geef ik ook graag publiekslezingen. Zo heb ik eerder bijgedragen aan discussies van kleinere en grotere organisaties in bijvoorbeeld Nijmegen, Rotterdam, Den Bosch, en Utrecht.
     </p>
   </div>
   
