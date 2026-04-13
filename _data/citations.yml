@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-13'
 papers:
   NxTP1kAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: 'Administrative democratic defence: Under what circumstances do civil servants counter autocratisation?'
     year: '2026'
+  NxTP1kAAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: 'De verdediging van de democratie: van ethos naar praxis'
+    year: '2026'
   NxTP1kAAAAAJ:9yKSN-GCB0IC:
     citations: 2
     title: 'The Autocrats'' Toolkit: What Do Would-be Autocrats Do When They Undermine Democracy?'
@@ -24,6 +28,10 @@ papers:
   NxTP1kAAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: 'Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession'
+    year: '2025'
+  NxTP1kAAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: Online Appendix to Beautiful Spark of Democracy
     year: '2025'
   NxTP1kAAAAAJ:Se3iqnhoufwC:
     citations: 0
@@ -42,9 +50,9 @@ papers:
     title: Democratie als ge (s) laagd samenspel?
     year: '2025'
   NxTP1kAAAAAJ:WF5omc3nYNoC:
-    citations: 3
+    citations: 4
     title: "The would-be autocrats\u2019 toolkit: what do incumbents do when they undermine democracy?"
-    year: '2025'
+    year: '2026'
   NxTP1kAAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Rondetafelgesprek over weerbaarheid democratie
@@ -78,6 +86,6 @@ papers:
     title: Populism and Democracy
     year: '2024'
   NxTP1kAAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: 'Defending democracy: investigating the efficacy of elite democratic defence in a competitive information environment'
     year: '2025'
