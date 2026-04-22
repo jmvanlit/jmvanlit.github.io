@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-22'
 papers:
   NxTP1kAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: Democratische normen. Normbesef en normstelling
     year: '2024'
+  NxTP1kAAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: "Credible resistance or political ploy? How government status and consistency shape citizen perceptions of parliamentarians\u2019 democratic defence"
+    year: '2026'
   NxTP1kAAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: 'Administrative democratic defence: Under what circumstances do civil servants counter autocratisation?'
@@ -50,7 +54,7 @@ papers:
     title: Democratie als ge (s) laagd samenspel?
     year: '2025'
   NxTP1kAAAAAJ:WF5omc3nYNoC:
-    citations: 5
+    citations: 6
     title: "The would-be autocrats\u2019 toolkit: what do incumbents do when they undermine democracy?"
     year: '2026'
   NxTP1kAAAAAJ:Y0pCki6q_DkC:
@@ -78,7 +82,7 @@ papers:
     title: Wat is er Krom in je Rechtsstaat?
     year: '2022'
   NxTP1kAAAAAJ:u5HHmVD_uO8C:
-    citations: 34
+    citations: 35
     title: 'Countering autocratization: a roadmap for democratic defence'
     year: '2024'
   NxTP1kAAAAAJ:ufrVoPGSRksC:
@@ -86,6 +90,6 @@ papers:
     title: Populism and Democracy
     year: '2024'
   NxTP1kAAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: 'Defending democracy: investigating the efficacy of elite democratic defence in a competitive information environment'
     year: '2025'
