@@ -2,13 +2,37 @@
 layout: page
 title: research 
 permalink: /research/
-description: # A growing collection of your cool projects.
+description:
 nav: true
 horizontal: false
 cv_pdf: 
 nav_order: 3
 ---
 
-Content to follow.
+I am a postdoctoral researcher in comparative political science at Radboud University, Nijmegen and the University of Fribourg, Switzerland. My work sits at the intersection of democratic theory and empirical political science: I study who defends democracy, how they do it, and when they succeed — particularly when the threat comes from democratically elected leaders themselves. I use a combination of cross-national comparative analysis, elite interviews, survey experiments, and questionnaires.
 
+My dissertation, *Beautiful Spark of Democracy* ([Radboud University Press](https://doi.org/10.54195/9789465150840), cum laude), provides the foundation for much of my current work. It advances a theory of democratic defence and tests it empirically among Dutch civil servants and in factorial survey experiments conducted in the Netherlands, Germany, and France. The book is available open access. My work has appeared in the *European Journal of Political Research*, *West European Politics*, *European Political Science Review*, and *Democratization*.
 
+---
+
+## Current Research Projects
+
+### Democratic Support and Conceptions of Democracy
+
+At the University of Fribourg, I investigate the conditions under which citizens support liberal democracy. A central focus is how *conceptions* of democracy — what people understand democracy to mean — vary across countries, and how these varying understandings shape political behaviour, including voting, protest, and disengagement. This project combines cross-national survey data with experimental methods.
+
+### Ethics of Research Methods in Political Science
+
+Political science research frequently relies on deception-based experiments, in which participants are misled as part of the study design. Such practices are typically approved by ethics committees and are considered standard methodological tools. In this project, I examine how these methods can be made fairer and more ethical, contributing to ongoing debates about research integrity in the social sciences.
+
+### Legitimacy and Effectiveness of Democratic Defence
+
+Building directly on my dissertation research, this project investigates two open questions about how democracies resist autocratisation: which defensive actions are considered *legitimate* (is everyone entitled to do anything to protect democracy?), and which actions are *effective* (is every form of defence equally successful?). The project extends the theoretical and empirical scope of *Beautiful Spark of Democracy* to new cases and contexts.
+
+---
+
+## Involvement in the Study of Dutch Democracy
+
+Alongside my comparative research, I regularly contribute to the study and public debate of Dutch democracy. I have participated in the **Nationaal Kiezersonderzoek** (National Election Study) around the 2024 parliamentary elections, examining how Dutch voters differ in their conceptions of democracy. For the 2025 elections, I am studying — together with Carmen van Alebeek — the extent of democratic support among the Dutch electorate. For the **Lokaal Kiezersonderzoek** (Local Election Study) around the 2026 municipal elections, I am mapping, together with Lisanne de Blok, the resilience of local democracy in the Netherlands.
+
+I have also contributed directly to policy. In 2023, I was invited by the Dutch parliament (*Tweede Kamer*) to advise a roundtable on democratic resilience, and I co-authored a report on democratic erosion for the Ministry of the Interior and Kingdom Relations (*Ministerie van Binnenlandse Zaken en Koninkrijksrelaties*). In 2025, I presented at the *Dag van het Bestuur*. And I am regulalry invited by policy-makers and civil servants to discuss the state and resilience of Dutch democracy.
