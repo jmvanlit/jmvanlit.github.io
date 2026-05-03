@@ -24,6 +24,34 @@ Dat doe ik aan de hand van landen-vergelijkend onderzoek, interviews met verdedi
 
 Ik woon in Nederland, lees in mijn vrije tijd graag slechte spionage romans, speel cello, en ben altijd aan het trainen voor mijn volgende (ultra)marathon.
 
+# Bijdragen aan het publieke debat
+Ik draag graag bij aan het publieke debat en de kennis over democratie en autocratie. <strong>De beste manier om met mij in contact te komen is via mijn e-mail: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>.</strong>
+
+<div class="row mt-3">
+  <div class="col-sm-4">
+    <h4>Publiekslezingen</h4>
+    <p>
+      Naast media optredens, bijvoorbeeld bij <a href = "https://www.nporadio1.nl/fragmenten/de-nieuws-bv/019a3054-7159-70f9-8ff2-a579c63c743c/2025-10-29-steeds-meer-autocratieen-hoe-staat-nederland-ervoor">BNNVARA / Radio 1</a> en <a href = "https://eenvandaag.avrotros.nl/doe-mee/brokkelt-de-democratie-in-nederland-langzaam-af-jullie-vragen-over-autocratie-beantwoord-161405">EenVandaag</a>, en interviews met bijvoorbeeld <a href= "https://www.groene.nl/artikel/hoe-nederland-trump-proof-kan-worden">De Groene Amsterdammer</a> of <a href = "https://www.vn.nl/hoe-rechts-de-eu-ondermijnt/">Vrij Nederland</a>, geef ik ook graag publiekslezingen. Zo heb ik eerder bijgedragen aan discussies van kleinere en grotere organisaties in bijvoorbeeld Nijmegen, Rotterdam, Den Bosch, en Utrecht.
+    </p>
+  </div>
+  
+  <div class="col-sm-4">
+    <h4>Beleidsadvies</h4>
+    <p>
+      Ik heb regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo ben in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019">rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef ik mee aan <a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf ik een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
+    </p>
+  </div>
+  
+  <div class="col-sm-4">
+    <h4>Kiezersonderzoeken</h4>
+    <p>
+      Voor het <a href = "https://www.dpes.nl/">Nationaal Kiezersonderzoek</a> keek ik rondom de Tweede Kamerverkiezingen van 2024 naar de verschillende opvattingen over democratie die Nederlandse kiezers hebben. Voor het Nationaal Kiezersonderzoek rondom de Tweede Kamerverkiezingen van 2025 onderzoek ik samen met <a href = "https://carmenvanalebeek.nl/">Carmen van Alebeek</a> de steun voor de democratie onder Nederlandse kiezers. En voor het Lokaal Kiezersonderzoek rondom de gemeenteraadsverkiezingen van 2026 breng ik samen met <a href = "https://www.uu.nl/medewerkers/EABlok">Lisanne de Blok</a> in kaart hoe weerbaar de lokale democratie is.
+    </p>
+  </div>
+</div>
+
+# Mijn onderzoek
+
 ### Promotie onderzoek: De verdediging van de democratie
 
 <div class="row">
@@ -52,33 +80,7 @@ Het boek combineert een analyse van wereldwijde gevallen van democratische erosi
   </div>
 </div>
 
-# Bijdragen aan het publieke debat
-Ik draag graag bij aan het publieke debat en de kennis over democratie en autocratie. <strong>De beste manier om met mij in contact te komen is via mijn e-mail: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>.</strong>
-
-<div class="row mt-3">
-  <div class="col-sm-4">
-    <h4>Publiekslezingen</h4>
-    <p>
-      Naast media optredens, bijvoorbeeld bij <a href = "https://www.nporadio1.nl/fragmenten/de-nieuws-bv/019a3054-7159-70f9-8ff2-a579c63c743c/2025-10-29-steeds-meer-autocratieen-hoe-staat-nederland-ervoor">BNNVARA / Radio 1</a> en <a href = "https://eenvandaag.avrotros.nl/doe-mee/brokkelt-de-democratie-in-nederland-langzaam-af-jullie-vragen-over-autocratie-beantwoord-161405">EenVandaag</a>, en interviews met bijvoorbeeld <a href= "https://www.groene.nl/artikel/hoe-nederland-trump-proof-kan-worden">De Groene Amsterdammer</a> of <a href = "https://www.vn.nl/hoe-rechts-de-eu-ondermijnt/">Vrij Nederland</a>, geef ik ook graag publiekslezingen. Zo heb ik eerder bijgedragen aan discussies van kleinere en grotere organisaties in bijvoorbeeld Nijmegen, Rotterdam, Den Bosch, en Utrecht.
-    </p>
-  </div>
-  
-  <div class="col-sm-4">
-    <h4>Beleidsadvies</h4>
-    <p>
-      Ik heb regelmatig contact met politici en beleidsmakers over de weerbaarheid en verdediging van de Nederlandse democratie. Zo ben in 2023 door de Tweede Kamer om advies gevraagd tijdens een <a href = "https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-weerbaarheid-democratie#:~:text=De%20vaste%20commissie%20voor%20Binnenlandse,de%20Democratie%20in%20Nijmegen%2C%202019">rondetafelgesprek over democratische weerbaarheid</a>. En in 2023 schreef ik mee aan <a href = "https://www.kennisopenbaarbestuur.nl/documenten/2024/04/12/verkenning-en-verdieping-democratische-erosie-en-respons-in-nederland">een rapport</a> over democratische erosie voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In 2025 gaf ik een presentatie op de <a href = "https://www.dagvanhetbestuur.nl/">Dag van het Bestuur</a>.
-    </p>
-  </div>
-  
-  <div class="col-sm-4">
-    <h4>Kiezersonderzoeken</h4>
-    <p>
-      Voor het <a href = "https://www.dpes.nl/">Nationaal Kiezersonderzoek</a> keek ik rondom de Tweede Kamerverkiezingen van 2024 naar de verschillende opvattingen over democratie die Nederlandse kiezers hebben. Voor het Nationaal Kiezersonderzoek rondom de Tweede Kamerverkiezingen van 2025 onderzoek ik samen met <a href = "https://carmenvanalebeek.nl/">Carmen van Alebeek</a> de steun voor de democratie onder Nederlandse kiezers. En voor het Lokaal Kiezersonderzoek rondom de gemeenteraadsverkiezingen van 2026 breng ik samen met <a href = "https://www.uu.nl/medewerkers/EABlok">Lisanne de Blok</a> in kaart hoe weerbaar de lokale democratie is.
-    </p>
-  </div>
-</div>
-
-# Huidige onderzoeksprojecten
+### Huidige onderzoeksprojecten
 Op het moment werk ik aan drie grote onderzoeksprojecten.
 
 Aan de Universiteit van Fribourg onderzoek ik onder welke voorwaarden burgers de liberale democratie steunen. Ik kijk hierbij vooral hoe de ideeën over 'wat democratie is' verschillen tussen verschillende landen, en op welke manier die verschillende ideeën bijdragen aan het politieke gedrag van burgers - zoals stemgedrag of het besluit om wel of niet te gaan demonstreren.
