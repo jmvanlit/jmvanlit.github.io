@@ -211,6 +211,7 @@ exclude:
   - _repositories
   - _people
   - _archive
+  - _posts
 keep_files:
   - CNAME
   - .nojekyll
