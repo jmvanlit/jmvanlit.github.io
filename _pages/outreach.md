@@ -1,6 +1,6 @@
 ---
 layout: page
-title: outreach 
+title: Outreach 
 permalink: /outreach/
 description: # A growing collection of your cool projects.
 nav: true
