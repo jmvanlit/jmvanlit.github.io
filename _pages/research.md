@@ -19,21 +19,21 @@ My dissertation, *Beautiful Spark of Democracy* ([Radboud University Press](http
 
 ## Current Research Projects
 
-#### Democratic Support and Conceptions of Democracy
+#### Democratic support and conceptions of democracy
 
-At the University of Fribourg, together with a team led by [Prof. Natasha Wunsch](https://www.unifr.ch/directory/en/people/366435/28485), I investigate the conditions under which citizens support liberal democracy. A central focus is how *conceptions* of democracy — what people understand democracy to mean — vary across countries, and how these varying understandings shape political behaviour, including voting, protest, and disengagement. This project combines cross-national survey data with experimental methods.
+At the University of Fribourg, Switzerland, together with a team led by [Prof. Natasha Wunsch](https://www.unifr.ch/directory/en/people/366435/28485), I investigate the conditions under which citizens support liberal democracy. A central focus is how support for liberal democracy varies across countries, and how citizens' support and varying understandings of democracy shape political behaviour, including voting, protest, and disengagement. This project combines cosu groups, with cross-national survey data and experimental methods. Visit our [project webiste here](https://www.democratic-commitment.eu)!
 
-#### Ethics of Research Methods in Political Science
+#### Ethics of genAI research in political science
 
-Political science research frequently relies on deception-based experiments, in which participants are misled as part of the study design. Such practices are typically approved by ethics committees and are considered standard methodological tools. In this project, together with [Michal Mochtak](https://mochtak.com) I examine how these methods can be made fairer and more ethical, contributing to ongoing debates about research integrity in the social sciences.
+Political science research frequently relies on deception-based experiments, in which participants are misled as part of the study design. With the advance of genAI, there are new tools available for such experiments. In this project, together with [Michal Mochtak](https://mochtak.com) I examine how these methods can be made fairer and more ethical, contributing to ongoing debates about research integrity in the social sciences.
 
-#### Legitimacy and Effectiveness of Democratic Defence
+#### Legitimacy and effectiveness of Democratic Defence
 
 Building directly on my dissertation research, this project investigates two open questions about how democracies resist autocratisation: which defensive actions are considered *legitimate* (is everyone entitled to do anything to protect democracy?), and which actions are *effective* (is every form of defence equally successful?). The project extends the theoretical and empirical scope of *Beautiful Spark of Democracy* to new cases and contexts.
 
 ---
 
-## Involvement in the Study of Dutch Democracy
+## Involvement in the study of Dutch democracy
 
 Alongside my comparative research, I regularly contribute to the study and public debate of Dutch democracy. I have participated in the [_Nationaal Kiezersonderzoek_ (Dutch Parliamentary Election Study)](https://www.dpes.nl) around the 2024 parliamentary elections, examining how Dutch voters differ in their conceptions of democracy. For the 2025 elections, I am studying — together with [Carmen van Alebeek](https://carmenvanalebeek.nl) — the extent of democratic support among the Dutch electorate. For the _Lokaal Kiezersonderzoek_ (Local Election Study) around the 2026 municipal elections, I am mapping, together with [Lisanne de Blok](https://www.uu.nl/medewerkers/EABlok), the resilience of local democracy in the Netherlands.
 
