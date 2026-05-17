@@ -105,8 +105,6 @@ related_blog_posts:
   enabled: true
   max_related: 
 
-posts_in_search: false
-
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
