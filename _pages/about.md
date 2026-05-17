@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral researcher, focusing on democracy and autocracy, at the <a href = "https://www.unifr.ch/directory/en/people/449834/d51a8">Department of European Studies, University of Fribourg, Switzerland</a>, and the <a href='https://www.ru.nl/en/people/lit-j-van'>Department of Political Science, Radboud University, Nijmegen, the Netherlands</a>.
 
