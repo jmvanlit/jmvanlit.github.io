@@ -9,7 +9,11 @@ cv_pdf:
 nav_order: 3
 ---
 
-A selection of recent posts from [LinkedIn](https://linkedin.com/in/jmvanlit).
+More content to follow.
+
+---
+
+A selection of recent posts from my [LinkedIn](https://linkedin.com/in/jmvanlit).
 
 <div class="linkedin-grid">
   <div class="linkedin-post">
