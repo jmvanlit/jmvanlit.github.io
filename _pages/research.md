@@ -17,7 +17,7 @@ My dissertation, *Beautiful Spark of Democracy* ([Radboud University Press](http
 
 ---
 
-## Current Research Projects
+## Current research projects
 
 #### Democratic support and conceptions of democracy
 
