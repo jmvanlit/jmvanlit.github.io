@@ -84,11 +84,11 @@ cv:
 
       - name: Outreach
         icon: fa-solid fa-bullhorn
-        keywords: "Public lectures, talks, Q&As"
+        keywords: "Public lectures, talks, Q&As, policy advice"
 
     Projects:
-      - name: Liberal Commitment
-        summary: With a team at the University of Fribourg, under supervision of <a href= "https://www.unifr.ch/directory/en/people/366435/28485">Natasha Wunsch</a> we are building a novel measurement of citizens' commitment to liberal democracy. Within this project, I am investigating how liberal commitment impacts citizens' political behaviour and willingness to defend democracy.
+      - name: Commitment to liberal democracy
+        summary: With a <a href = "https://www.democratic-commitment.eu">team at the University of Fribourg</a>, under supervision of <a href= "https://www.unifr.ch/directory/en/people/366435/28485">Natasha Wunsch</a> we are building a novel measurement of citizens' commitment to liberal democracy. Within this project, I am investigating how liberal commitment impacts citizens' political behaviour and willingness to defend democracy.
         highlights:
         start_date: 
         end_date:
