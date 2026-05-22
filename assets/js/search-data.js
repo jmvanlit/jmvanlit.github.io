@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
-        },{id: "dropdown-research",
-              title: "Research",
+        },{id: "dropdown-research-profile",
+              title: "Research profile",
               description: "",
               section: "Dropdown",
               handler: () => {
