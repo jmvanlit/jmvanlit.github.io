@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research 
+title: Research profile
 permalink: /research/
 description:
 nav: true
@@ -9,7 +9,7 @@ cv_pdf:
 nav_order: 3
 dropdown: true
 children:
-  - title: Research
+  - title: Research profile
     permalink: /research/
   - title: Publications
     permalink: /publications/
@@ -19,13 +19,13 @@ I am a postdoctoral researcher in comparative political science at Radboud Unive
 
 My dissertation, *Beautiful Spark of Democracy* ([Radboud University Press](https://doi.org/10.54195/9789465150840), cum laude), provides the foundation for much of my current work. It advances a theory of democratic defence and tests it empirically using computational social sciences, with interviews among Dutch civil servants, and in factorial survey experiments conducted in the Netherlands, Germany, and France. The book is available open access. My work has appeared in, among others, the *European Journal of Political Research*, *West European Politics*, the *Journal of European Public Policy*, and *Democratization*.
 
-You can download my cv [here](https://www.jmvanlit.nl/cv/) and find a list of all my publications [[here](https://www.jmvanlit.nl/publications)].
+You can download [my cv here](https://www.jmvanlit.nl/cv/) and find a list of [all my publications here](https://www.jmvanlit.nl/publications).
 
 ---
 
 ## Current research projects
 
-#### Democratic support and conceptions of democracy
+#### Support for liberal democracy
 
 At the University of Fribourg, Switzerland, together with a team led by [Prof. Natasha Wunsch](https://www.unifr.ch/directory/en/people/366435/28485), I investigate the conditions under which citizens support liberal democracy. A central focus is how support for liberal democracy varies across countries, and how citizens' support and varying understandings of democracy shape political behaviour, including voting, protest, and disengagement. This project combines cosu groups, with cross-national survey data and experimental methods. Visit our [project webiste here](https://www.democratic-commitment.eu)!
 
@@ -33,7 +33,7 @@ At the University of Fribourg, Switzerland, together with a team led by [Prof. N
 
 Political science research frequently relies on deception-based experiments, in which participants are misled as part of the study design. With the advance of genAI, there are new tools available for such experiments. In this project, together with [Michal Mochtak](https://mochtak.com) I examine how these methods can be made fairer and more ethical, contributing to ongoing debates about research integrity in the social sciences.
 
-#### Legitimacy and effectiveness of Democratic Defence
+#### Countering autocratization
 
 Building directly on my dissertation research, this project investigates two open questions about how democracies resist autocratisation: which defensive actions are considered *legitimate* (is everyone entitled to do anything to protect democracy?), and which actions are *effective* (is every form of defence equally successful?). The project extends the theoretical and empirical scope of *Beautiful Spark of Democracy* to new cases and contexts.
 
