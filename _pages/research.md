@@ -17,7 +17,7 @@ I am a postdoctoral researcher in comparative political science at Radboud Unive
 
 My dissertation, *Beautiful Spark of Democracy* ([Radboud University Press](https://doi.org/10.54195/9789465150840), cum laude), provides the foundation for much of my current work. It advances a theory of democratic defence and tests it empirically using computational social sciences, with interviews among Dutch civil servants, and in factorial survey experiments conducted in the Netherlands, Germany, and France. The book is available open access. My work has appeared in, among others, the *European Journal of Political Research*, *West European Politics*, the *Journal of European Public Policy*, and *Democratization*.
 
-**[You can download my cv with a list of all my publications here](https://www.jmvanlit.nl/cv/)**
+You can download my cv [here](https://www.jmvanlit.nl/cv/) and find a list of all my publications [[here](https://www.jmvanlit.nl/publications)].
 
 ---
 
