@@ -7,6 +7,10 @@ nav: true
 horizontal: false
 cv_pdf: 
 nav_order: 3
+dropdown: true
+children:
+  - Publications
+    permalink: /publications/
 ---
 
 I am a postdoctoral researcher in comparative political science at Radboud University, Nijmegen and the University of Fribourg, Switzerland. My work sits at the intersection of comparative political science, political behaviour, public opinion, and democratic theory: I study who defends democracy, how they do it, and when they succeed — particularly when the threat comes from democratically elected leaders themselves. I use a combination of cross-national comparative analysis, elite interviews, survey experiments, and questionnaires.
