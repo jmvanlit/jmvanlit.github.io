@@ -27,7 +27,7 @@ You can download [my cv here](https://www.jmvanlit.nl/cv/) and find a list of [a
 
 #### Support for liberal democracy
 
-At the University of Fribourg, Switzerland, together with a team led by [Prof. Natasha Wunsch](https://www.unifr.ch/directory/en/people/366435/28485), I investigate the conditions under which citizens support liberal democracy. A central focus is how support for liberal democracy varies across countries, and how citizens' support and varying understandings of democracy shape political behaviour, including voting, protest, and disengagement. This project combines cosu groups, with cross-national survey data and experimental methods. Visit our [project webiste here](https://www.democratic-commitment.eu)!
+At the University of Fribourg, Switzerland, together with a team led by [Prof. Natasha Wunsch](https://www.unifr.ch/directory/en/people/366435/28485), I investigate the conditions under which citizens support liberal democracy. A central focus is how support for liberal democracy varies across countries, and how citizens' support and varying understandings of democracy shape political behaviour, including voting, protest, and disengagement. This project combines focus groups, with cross-national survey data and experimental methods. Visit our [project webiste here](https://www.democratic-commitment.eu)!
 
 #### Ethics of genAI research in political science
 
