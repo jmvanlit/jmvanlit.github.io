@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Here you can find all my scientific publications. If some of these are not accessible, contact me so I can send you a copy.
-nav: true
+nav: false
 nav_order: 2
 ---
 
