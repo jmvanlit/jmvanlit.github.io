@@ -5,3 +5,19 @@
 "van ham":
   - firstname: ["Carolien", "van Ham", "Carolien van Ham", "C.", "Van Ham", "{van Ham}, Carolien", "{van Ham}"]
     url: https://www.ru.nl/personen/ham-c-van
+
+"honingh":
+  - firstname: ["Marlies", "Honingh", "Marlies Honingh", "M.", "M.E.", "Honingh, Marlies"]
+    url: https://www.uu.nl/medewerkers/MEHoningh
+
+"ruth-lovell":
+  - firstname: ["Saskia", "Ruth-Lovell", "Saskia Ruth-Lovell", "S.", "S.P.", "Ruth-Lovell, Saskia"]
+    url: https://saskiaruth.com
+
+"kindt":
+  - firstname: ["Rosa", "Kindt", "Rosa Kindt", "R.", "Kindt, Rosa"]
+    url: https://www.linkedin.com/in/rosa-kindt-5305a831/
+    
+"theuwis":
+  - firstname: ["Marie-Isabel", "Theuwis", "Marie-Isabel Theuwis", "Marie Theuwis", "M.", "Theuwis, Marie-Isabel"]
+    url: https://cevipol.phisoc.ulb.be/en/researchers/postdoctoral-researchers/marie-theuwis
