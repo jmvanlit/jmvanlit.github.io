@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research profile
+title: Research
 permalink: /research/
 description:
 nav: true
