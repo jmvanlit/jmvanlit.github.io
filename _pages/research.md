@@ -9,6 +9,8 @@ cv_pdf:
 nav_order: 3
 dropdown: true
 children:
+  - title: Research
+    permalink: /research/
   - title: Publications
     permalink: /publications/
 ---
