@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description:
+description: Here you can find all my academic publications. If some of these are not accessible, contact me so I can send you a copy.
 nav: false
 nav_order: 2
 ---
@@ -12,8 +12,6 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 <!-- {% include bib_search.liquid %} -->
-
-<!-- Here you can find all my academic publications. If some of these are not accessible, <a href = "mailto:joep.vanlit@ru.nl">contact me</a> so I can send you a copy. -->
 
 <div class="publications">
 
