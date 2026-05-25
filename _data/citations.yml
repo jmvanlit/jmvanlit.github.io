@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-25'
 papers:
   NxTP1kAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -33,14 +33,6 @@ papers:
     citations: 0
     title: 'Beautiful Spark of Democracy: The Conditions for Democratic Defence Against Incumbent-led Democratic Recession'
     year: '2025'
-  NxTP1kAAAAAJ:MXK_kJrjxJIC:
-    citations: 0
-    title: Online Appendix to Beautiful Spark of Democracy
-    year: '2025'
-  NxTP1kAAAAAJ:Se3iqnhoufwC:
-    citations: 0
-    title: Autocratic Backsliding
-    year: '2022'
   NxTP1kAAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: 'Justifying the Unjustifiable: In-Party Cues and Citizen Acceptance of Democratic Transgressions'
@@ -57,10 +49,6 @@ papers:
     citations: 6
     title: "The would-be autocrats\u2019 toolkit: what do incumbents do when they undermine democracy?"
     year: '2026'
-  NxTP1kAAAAAJ:Y0pCki6q_DkC:
-    citations: 0
-    title: Rondetafelgesprek over weerbaarheid democratie
-    year: '2023'
   NxTP1kAAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: 'Tegen democratische erosie: Samen scherp op inperking van maatschappelijke tegenmacht'
@@ -77,12 +65,8 @@ papers:
     citations: 0
     title: 'Defending Democracy: The Effects of Elite Democratic Defense on Citizens'' Perceptions of Democracy'
     year: '2025'
-  NxTP1kAAAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: Wat is er Krom in je Rechtsstaat?
-    year: '2022'
   NxTP1kAAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 39
     title: 'Countering autocratization: a roadmap for democratic defence'
     year: '2024'
   NxTP1kAAAAAJ:ufrVoPGSRksC:
@@ -90,6 +74,6 @@ papers:
     title: Populism and Democracy
     year: '2024'
   NxTP1kAAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: 'Defending democracy: investigating the efficacy of elite democratic defence in a competitive information environment'
     year: '2025'
