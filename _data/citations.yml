@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-06'
 papers:
   NxTP1kAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Credible resistance or political ploy? How government status and consistency shape citizen perceptions of parliamentarians\u2019 democratic defence"
     year: '2026'
   NxTP1kAAAAAJ:5nxA0vEk-isC:
-    citations: 0
+    citations: 1
     title: 'Administrative democratic defence: Under what circumstances do civil servants counter autocratisation?'
     year: '2026'
   NxTP1kAAAAAJ:8k81kl-MbHgC:
@@ -42,11 +42,11 @@ papers:
     title: Met het oog op de toekomst
     year: Unknown Year
   NxTP1kAAAAAJ:W7OEmFMy1HYC:
-    citations: 1
+    citations: 2
     title: Democratie als ge (s) laagd samenspel?
     year: '2025'
   NxTP1kAAAAAJ:WF5omc3nYNoC:
-    citations: 7
+    citations: 8
     title: "The would-be autocrats\u2019 toolkit: what do incumbents do when they undermine democracy?"
     year: '2026'
   NxTP1kAAAAAJ:YsMSGLbcyi4C:
@@ -66,7 +66,7 @@ papers:
     title: 'Defending Democracy: The Effects of Elite Democratic Defense on Citizens'' Perceptions of Democracy'
     year: '2025'
   NxTP1kAAAAAJ:u5HHmVD_uO8C:
-    citations: 40
+    citations: 42
     title: 'Countering autocratization: a roadmap for democratic defence'
     year: '2024'
   NxTP1kAAAAAJ:ufrVoPGSRksC:
@@ -74,6 +74,6 @@ papers:
     title: Populism and Democracy
     year: '2024'
   NxTP1kAAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 9
     title: 'Defending democracy: investigating the efficacy of elite democratic defence in a competitive information environment'
     year: '2025'
