@@ -49,7 +49,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/202603-jmvanlit-resume.pdf", "_blank");
+          window.open("/assets/pdf/202607-jmvanlit-resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
