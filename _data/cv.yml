@@ -4,7 +4,7 @@ cv:
   email: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>
   location: Radboud University, Nijmegen, the Netherlands
   image: ""
-  summary: I am a postdoctoral researcher and lecturer in comparative political science at the University of Fribourg, Switzerland, and at Radboud University, Nijmegen, the Netherlands. My research focuses on democratic recession and democratic defence, examining how political elites, institutions, and citizens respond when democracy comes under pressure.
+  summary: I am a postdoctoral researcher at the University of Fribourg, Switzerland and Affiliated Researcher at Radboud University, Nijmegen, the Netherlands. My research focuses on democratic recession and democratic defence, examining how political elites, institutions, and citizens respond when democracy comes under pressure.
 
   address:
     street: Elinor Ostrom Building (EOS), room N02.421 
@@ -44,7 +44,15 @@ cv:
         position: Postdoctoral Researcher in Comparative Political Science
         location: Fribourg
         start_date: 2026
-        end_date: today
+        end_date: Today
+        summary:
+        highlights:
+
+      - company: Radboud University
+        position: Affiliated Researcher, Department of Political Science
+        location: Nijmegen
+        start_date: 2026
+        end_date: Today
         summary:
         highlights:
 
@@ -52,7 +60,7 @@ cv:
         position: Postdoctoral Researcher in Comparative Political Science
         location: Nijmegen
         start_date: 2025
-        end_date: today
+        end_date: 2026
         summary:
         highlights:
 
@@ -88,7 +96,7 @@ cv:
 
     Projects:
       - name: Commitment to liberal democracy
-        summary: With a <a href = "https://www.democratic-commitment.eu">team at the University of Fribourg</a>, under supervision of <a href= "https://www.unifr.ch/directory/en/people/366435/28485">Natasha Wunsch</a> we are building a novel measurement of citizens' commitment to liberal democracy. Within this project, I am investigating how liberal commitment impacts citizens' political behaviour and willingness to defend democracy.
+        summary: With a <a href = "https://www.democratic-commitment.eu">team at the University of Fribourg</a>, led by <a href= "https://www.unifr.ch/directory/en/people/366435/28485">Natasha Wunsch</a>, we are building a novel measurement of citizens' commitment to liberal democracy. Within this project, I am investigating how liberal commitment impacts citizens' political behaviour and willingness to defend democracy.
         highlights:
         start_date: 
         end_date:
