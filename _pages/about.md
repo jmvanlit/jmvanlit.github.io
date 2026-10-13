@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral researcher, focusing on democracy and autocracy, at the <a href = "https://www.unifr.ch/directory/en/people/449834/d51a8">Department of European Studies, University of Fribourg, Switzerland</a>, and the <a href='https://www.ru.nl/en/people/lit-j-van'>Department of Political Science, Radboud University, Nijmegen, the Netherlands</a>.
+subtitle: Postdoctoral researcher, focusing on democracy and autocracy, at the <a href = "https://www.unifr.ch/directory/en/people/449834/d51a8">Department of European Studies, University of Fribourg, Switzerland</a>, and Affiliated Research at the <a href='https://www.ru.nl/en/people/lit-j-van'>Department of Political Science, Radboud University, Nijmegen, the Netherlands</a>.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Joep van Lit, and I am postdoctoral researcher in comparative political science at Radboud University, Nijmegen, the Netherlands and at the University of Fribourg, Switzerland. I study how democracies can defend themselves against would‑be autocrats, using experiments, surveys, and interviews.
+Hi! My name is Joep van Lit, and I am postdoctoral researcher in comparative political science at the University of Fribourg, Switzerland and an Affiliated Researcher at Radboud University, Nijmegen, the Netherlands. I study how democracies can defend themselves against would‑be autocrats, using experiments, surveys, and interviews.
 
 I earned my PhD cum laude at Radboud University, Nijmegen (October 2025). My dissertation, _Beautiful Spark of Democracy_ ([Radboud University Press](https://doi.org/10.54195/9789465150840)), feeds into articles in the European Journal of Political Research, West European Politics, European Political Science Review, and Democratization. I have been a Visiting Researcher at the V‑Dem Institute (University of Gothenburg) and I teach research methods in the BSc/MSc Political Science programmes. 
 
