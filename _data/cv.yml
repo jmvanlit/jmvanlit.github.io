@@ -1,13 +1,13 @@
 cv:
   name: Joep van Lit
-  label: Postdoctoral Researcher
+  label: Postdoctoral Researcher in Democracy and Autocracy
   email: <a href = "mailto:joep.vanlit@ru.nl">joep.vanlit@ru.nl</a>
-  location: Radboud University, Nijmegen, the Netherlands
+  location:
   image: ""
   summary: I am a postdoctoral researcher at the University of Fribourg, Switzerland and Affiliated Researcher at Radboud University, Nijmegen, the Netherlands. My research focuses on democratic recession and democratic defence, examining how political elites, institutions, and citizens respond when democracy comes under pressure.
 
   address:
-    street: Elinor Ostrom Building (EOS), room N02.421 
+    street:
     city:
     region: 
     postalCode: 
