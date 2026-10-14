@@ -17,6 +17,9 @@ A selection of recent posts from my [LinkedIn](https://linkedin.com/in/jmvanlit)
 
 <div class="linkedin-grid">
 <div class="linkedin-post">
+  <div class="linkedin-post">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7516009424667373568?collapsed=1" height="668" width="504" frameborder="0" allowfullscreen="" title="Ingevoegde bijdrage"></iframe>
+  </div>
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7469033367624380416?collapsed=1" height="666" width="504" frameborder="0" allowfullscreen="" title="Ingevoegde bijdrage"></iframe>
   </div>
   <div class="linkedin-post">
@@ -24,9 +27,6 @@ A selection of recent posts from my [LinkedIn](https://linkedin.com/in/jmvanlit)
   </div>
   <div class="linkedin-post">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7455203903719239680?collapsed=1" height="668" width="504" frameborder="0" allowfullscreen="" title="Ingevoegde bijdrage"></iframe>
-  </div>
-  <div class="linkedin-post">
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7450884175894724608?collapsed=1" height="668" width="504" frameborder="0" allowfullscreen="" title="Ingevoegde bijdrage"></iframe>
   </div>
 </div>
 
