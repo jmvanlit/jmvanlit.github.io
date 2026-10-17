@@ -9,7 +9,7 @@ cv_pdf:
 nav_order: 3
 ---
 
-Democracy is too important to leave to political scientists. Still, I think research has something useful to add. Next to my academic work, I try to bring what we know about democratic erosion and democratic defence to the people who deal with it in practice: policymakers, civil servants, local administrators, journalists, and anyone who has started to wonder whether Dutch democracy is in trouble.
+Democracy is too important to leave to political scientists. Still, I think research has something useful to add. Next to my academic work, I try to bring what we know about democratic erosion and democratic defence to the people who deal with it in practice: policymakers, civil servants, local administrators, journalists, and anyone who has started to wonder whether (Dutch) democracy is in trouble.
 
 Most of this work is in Dutch. Below is a selection. The full list is in my [CV](/cv/).
 
