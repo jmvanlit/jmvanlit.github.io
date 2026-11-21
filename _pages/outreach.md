@@ -18,8 +18,8 @@ Most of this work is in Dutch. Below is a selection. The full list is in my [CV]
 Over the past few years I have written for the Dutch Ministry of the Interior and Kingdom Relations (BZK) and others on how democratic erosion could unfold in the Netherlands, and what can be done about it.
 
 - **Duurzame democratie op het decentrale niveau** (2025, with Carolien van Ham). Essay in *Met het oog op de toekomst*, the essay collection accompanying the *Staat van het Bestuur 2024*. On democratic resilience in municipalities and provinces, where much of democracy actually happens.
-- **Tegen democratische erosie: Samen scherp op inperking van maatschappelijke tegenmacht** (2025, with M. van Wessel and B. van Paassen). Also available in English as *Against democratic recession: Recognizing suppression of civil counterpower*. On spotting the moment civil society loses room to push back.
-- **Normbesef en normstelling** (2024, with Maurits Meijers and Carolien van Ham) and **Startnotitie expertmeeting democratische erosie** (2024, with Carolien van Ham and M. Honingh). Both in *Verkenning en verdieping democratische erosie en respons in Nederland*, commissioned by BZK. On which democratic norms we share, and who is supposed to uphold them.
+- **Tegen democratische erosie: Samen scherp op inperking van maatschappelijke tegenmacht** (2025, with Margit van Wessel and Barbara van Paassen). Also available in English as *Against democratic recession: Recognizing suppression of civil counterpower*. On spotting the moment civil society loses room to push back.
+- **Normbesef en normstelling** (2024, with Maurits Meijers and Carolien van Ham) and **Startnotitie expertmeeting democratische erosie** (2024, with Carolien van Ham and Marlies Honingh). Both in *Verkenning en verdieping democratische erosie en respons in Nederland*, commissioned by BZK. On which democratic norms we share, and who is supposed to uphold them.
 
 ## Election studies
 
@@ -33,7 +33,7 @@ I contribute to the Dutch Parliamentary Election Studies (NKO) and the Dutch loc
 
 I regularly talk with people who work on democracy every day: from a roundtable with the Standing Committee on the Interior of the Dutch parliament and a lunch seminar at the Dutch Council of State, to expert panels for the WRR and BZK and a lecture at the Dag van het Bestuur. I also enjoy the less formal settings, such as Studium Generale in Tilburg, a Tegenlicht Meet-Up, or a library discussion after a documentary.
 
-Every now and then I explain things on the radio or in print, for example on NPO Radio 1, EenVandaag, De Groene Amsterdammer, and Reuters.
+Every now and then I explain things on the radio or in print, for example on NPO Radio 1, EenVandaag, De Groene Amsterdammer, Trouw, and Reuters.
 
 Would you like me to speak at your event, or are you working on a question about democratic resilience? [Send me an email](mailto:joep.vanlit@unifr.ch).
 
